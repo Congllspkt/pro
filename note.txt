@@ -64,7 +64,8 @@ bon hô: number
 
 sak je: delete/elimitation
 hêng sak je: row delete
-sang thê: delete
+
+sang thê: state
 
 sang se: detail
 sê rô gô chim: refresh
