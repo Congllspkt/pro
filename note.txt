@@ -1,0 +1,122 @@
+sa yông: use
+sa yông yo bu: use or not, available/use status
+sa yông ja: user / users
+
+kê bal: development
+
+kom sêk: search, inquiry
+jô hoe: search
+chaj ki: find
+
+kô kêk: customer / client
+
+kong jang: factory
+
+kong jong: process
+cho ri: process
+
+kye hoek (oe = ui): ke hoach
+
+kôan li: management
+
+ku bun: category, calssification/ sortation
+bun lyu: classification/ category
+jong yol: sort
+
+kwon han: authority
+
+kư rub: group
+
+ki nưng: function
+ki bôn: foundation / basic
+
+ki jun: standard/ rule
+phyo jun: standard
+
+ki tha: etc
+
+nal jja: date / ngay thang
+nê yong: content / noi dung
+
+dan kye: phase, step, stage, step by step
+
+dad ki: close /  tat
+dê sang: target/ object
+
+dưng lôk: registration
+
+hêng chu ga: row add
+chu ga: add
+
+mul lyu: logistic
+
+bang sik: method/way
+byôn kyông: change
+
+bôk sa: copy/duplication
+hêng bôk sa: row coppy
+
+bu so: department
+bi go: remark
+
+sa bon: employee id number
+bon hô: number
+
+sak je: delete/elimitation
+hêng sak je: row delete
+sang thê: delete
+
+sang se: detail
+sê rô gô chim: refresh
+son jê: wirerod
+son thêk: select/choice
+sol kye: design
+
+song myong: name
+myong: name/order
+i rưm: name
+
+su jong: update/modificaion
+
+sun so: order / sequence
+ju mum: order
+
+si jak: start
+sin chong: application
+sil hêng: execution
+
+yol ki: open
+wan ryô: complete
+yo chong: request
+
+il si: date time
+si kan: time
+jông lyô il: end date
+jông lyô: end
+
+jak op: work
+jê lyô: material
+jon che: whole/ entire
+je môk: tittle
+je jak: it development
+jô chi: action/ measure
+jik bon: emoloyee id
+chul ha: shipping
+
+jin hêng: progress
+chom bu: attach
+jo jang: save
+chul sô: cancel
+che khư: check
+chô ki hwa: reset
+
+khư gi: size
+
+phum jil: quality
+
+hab kye: sum
+
+hwak in: ok
+
+hu phan: thick plate
+bak phan: thin plate
