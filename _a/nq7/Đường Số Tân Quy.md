@@ -18,7 +18,7 @@ DT: 8.3 x10 m, Hướng Bắc.,
 
 - Pháp lý: Sổ hồng riêng , Hoàn Công Đầy Đủ .,
 
-Hướng: 
+Hướng: Bắc
 
 hẻm: gần hẻm xe hơi 
 
