@@ -1,6 +1,8 @@
 Nguyễn Thị Thập
 
-142.5 Nguyễn Thị Thập, Phường Bình Thuận Quận 7 Nguyễn Thị Thập 37.4/60 4 5 13 7.85  R
+142.5 Nguyễn Thị Thập, Phường Bình Thuận Quận 7 Nguyễn Thị Thập 37.4/60 4 5 13 7.85 
+
+ R
 
 7->8
 
@@ -24,7 +26,9 @@ hẻm: hxh. Có qh
 
 _________________________________________________________________________
 
-147.5 Nguyễn Thị Thập 75 3 4 22 9.2 tỷ Tân Phú Quận 7        R
+147.5 Nguyễn Thị Thập 75 3 4 22 9.2 tỷ Tân Phú Quận 7       
+
+ R
 
 - Vị Trí Đắc địa Xe Hơi Ngủ trong nhà
 
@@ -41,5 +45,25 @@ _________________________________________________________________________
 Hướng: 
 
 hẻm: hxh, có qh
+
+_________________________________________________________________________
+52.9.1 KP3 Nguyễn Thị Thập 145 4 5 28 16 tỷ Bình Thuận Quận 7 
+
+C
+
+NHÀ ĐẸP LUNG LINH CHÍNH CHỦ XÂY Ở, CHUYỂN SANG BIỆT THỰ Ở NÊN BÁN LỖ
+
+
+52.9.1 Đường Nguyễn Thị Thập 145 4 5 27.5 16 tỷ. Phường Bình Thuận - Quận 7. HĐ 15-20 tỷ - HĐ Tp Soan - 0944050289 HH 3% giá bán. Nguồn Hội đồng thẩm định.
+
+Mô Tả:
+
+Diện tích: ngang 5, dài 27.5 công nhận 142.7m2. 
+
+Kết cấu: Nhà 1 trệt 2 lầu sân thượng, nhà gồm 4Pn 5 wc, sân để xe hơi, giếng trời thông thoáng.
+
+Vị trí: Nhà hẻm xe hơi đẹp lung linh.
+
+Sổ Hồng chính chủ, vuông vức, hoàn công chuẩn chỉ, công chứng nhanh, vay vốn ngân hàng thoải mái.,
 
 _________________________________________________________________________
