@@ -7,6 +7,8 @@ https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d
 https://github.com/jonkrohn/ML-foundations
 
 Simple Linear Regression
+
+
 ```
     Importing the libraries
     Importing the dataset
