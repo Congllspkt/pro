@@ -22,5 +22,7 @@ Encoding categorical data
 
 https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/SuperDataScience-Poster-Assumptions-of-Linear-Regression.pdf
 
+https://www.mdpi.com/2073-4395/11/5/885
+
 
 
