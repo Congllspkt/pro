@@ -1,0 +1,147 @@
+1	36.39E Mễ Cốc	38.9/40m	4	4.1m	5.4 tỷ	3-6 Tỷ	Nguyễn Minh Triều   0918328435	3.0 %	Đầu chủ	Chuẩn	12/01/2025 11:04	
+2	1715 Phạm Thế Hiển	114.3m	3	4m	15.5 tỷ	15-20 Tỷ	Quan Chí Quân   0767373729	3.0 %	Đầu chủ	Chuẩn	11/01/2025 19:54	
+3	9.29 Âu Dương Lân	42m	3	4.3m	5.85 tỷ	3-6 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	10/01/2025 23:01	
+4	45.3 Âu Dương Lân	58.2m	3	4.1m	8.18 tỷ	6-9 Tỷ	Nguyễn Thị Soan_ĐC  0944050289	3.0 %	Đầu chủ	Chuẩn	09/01/2025 19:14	
+5	54 Đinh Hoà	66.8m	3	5.5m	10 tỷ	9-15 Tỷ	Vũ Hoàng Giang  0933665468	2.0 %	Đầu chủ	Chuẩn	08/01/2025 17:15	
+6	18 Đường số 2 Khu TDC Cảng Sông Phú Định	100m	4	5m	9.5 tỷ	9-15 Tỷ	Nguyễn Minh Triều   0918328435	3.0 %	Đầu chủ	Chuẩn	05/01/2025 22:57	
+7	15 302	59.5m	4	6m	16 tỷ	15-20 Tỷ	Quan Chí Quân   0767373729	3.0 %	Đầu chủ	Chuẩn	04/01/2025 21:11	
+8	258.22 Dương Bá Trạc	68/88m	4	4m	10.3 tỷ	9-15 Tỷ	Nguyễn Thái Hoà 0902910745	3.0 %	Hội đồng thẩm định	Chuẩn	04/01/2025 12:05	
+9	137.3A14 Cao Xuân Dục	83m	4	4.3m	7.8 tỷ	6-9 Tỷ	Nguyễn Kim Yến_ĐC   0931822812	3.0 %	Đầu chủ	Chuẩn	04/01/2025 11:44	
+10	55.4 Bông Sao	118.5m	4	5.2m	15.5 tỷ	15-20 Tỷ	Võ Thị Ngọc Thủy_ĐC 0909547485	3.0 %	Hội đồng thẩm định	Chuẩn	03/01/2025 10:53	
+11	225.20.12 Tạ Quang Bửu	93m	4	4m	7 tỷ	6-9 Tỷ	Trần Kim Long   0936293818	150 triệu	Đầu chủ	Chuẩn	02/01/2025 16:46	 
+12	20 Đinh Hòa	67.7m	4	4m	22 tỷ	20-30 Tỷ	Quan Chí Quân   0767373729	3.0 %	Đầu chủ	Chuẩn	02/01/2025 12:52	
+13	3187.9A Phạm Thế Hiển	112.7/67.2m	3	5m	10.5 tỷ	9-15 Tỷ	Quan Chí Quân   0767373729	3.0 %	Đầu chủ	Chuẩn	25/12/2024 19:29	
+14	30 Đường số 4 khu nhà ở Thanh Nhựt, An Dương Vương	72m	4	4m	11.3 tỷ	9-15 Tỷ	Chiếng Nhật Tân 0362624425	3.0 %	Đầu chủ	Chuẩn	25/12/2024 11:37	
+15	3189.5.5 Phạm Thế Hiển	49m	4	5.9m	4.33 tỷ	3-6 Tỷ	Võ Đình Thanh   0902485485	3.0 %	Hội đồng thẩm định	Chuẩn	23/12/2024 16:41	 
+16	593 Ba Đình	97/112m	3	4m	16 tỷ	15-20 Tỷ	Lý Quang Trí_ĐC 0938849992	3.0 %	Hội đồng thẩm định	Chuẩn	22/12/2024 11:34	
+17	45 - 45A Mai Hắc Đế	125m	4	10m	15.3 tỷ	15-20 Tỷ	Trần Thị Kim Duyên ĐC   0888097678	3.0 %	Đầu chủ	Chuẩn	20/12/2024 22:51	
+18	45A Mai Hắc Đế	64m	4	6m	7.8 tỷ	6-9 Tỷ	Trần Thị Kim Duyên ĐC   0888097678	3.0 %	Đầu chủ	Chuẩn	20/12/2024 22:02	
+19	45 Mai Hắc Đế	60m	4	5m	7.5 tỷ	6-9 Tỷ	Trần Thị Kim Duyên ĐC   0888097678	3.0 %	Đầu chủ	Chuẩn	20/12/2024 21:55	
+20	59 Nguyễn Thị Mười (Đường 204 Cao Lỗ)	54m	4	4m	13.5 tỷ	9-15 Tỷ	Nguyễn Thái Hoà 0902910745	3.0 %	Hội đồng thẩm định	Chuẩn	20/12/2024 17:40	
+21	75 Đường Số 41 (Hoàng Ngân)	89/100m	3	4m	9.9 tỷ	9-15 Tỷ	Mai Thanh Hây   0902744818	3.0 %	Đầu chủ	Chuẩn	20/12/2024 07:50	
+22	141.97.12.9D Tám Danh	45/44.9m	3	4.8m	5.6 tỷ	3-6 Tỷ	Quan Chí Quân   0767373729	3.0 %	Đầu chủ	Chuẩn	19/12/2024 13:11	
+23	6U Nguyễn Thị Tần	62/68m	4	4m	10.2 tỷ	9-15 Tỷ	Nguyễn Văn Tuấn_ĐC  0355538999	3.0 %	Đầu chủ	Chuẩn	18/12/2024 18:38	
+24	27 267B Ba Tơ	95m	4	5m	11 tỷ	9-15 Tỷ	Đặng Hoàng Tuân_ĐC  0937539888	3.0 %	Đầu chủ	Chuẩn	10/12/2024 18:50	
+25	39.15.1 An Dương Vương	53m	4	4.5m	5.9 tỷ	3-6 Tỷ	Nguyễn Quang Diện   0961249646	3.0 %	Đầu chủ	Chuẩn	10/12/2024 11:36	
+26	300 bông sao	69.2m	3	4.1m	13.6 tỷ	9-15 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Đầu chủ	Chuẩn	09/12/2024 18:09	
+27	21 204 Cao Lỗ	54m	4	4m	12.5 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc_ĐC    0777699645	3.0 %	Đầu chủ	Chuẩn	09/12/2024 14:07	
+28	361.14.17A-17B Bình Đông	40.8m	3	5.7m	3.49 tỷ	3-6 Tỷ	Nguyễn Hoàng Phúc   0777699645	100 triệu	Đầu chủ	Chuẩn	02/12/2024 22:23	
+29	13A Liên tỉnh 5	60.5m	5	4m	8.2 tỷ	6-9 Tỷ	Võ Thị Ngọc Thủy_ĐC 0909547485	3.0 %	Đầu chủ	Chuẩn	01/12/2024 21:04	
+30	181.64 Âu Dương Lân	65.6/82m	5	5.3m	11.5 tỷ	9-15 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	29/11/2024 10:18	
+31	28H.9 Dương Bá Trạc	122m	5	4m	15.6 tỷ	15-20 Tỷ	Nguyễn Thái Hoà 0902910745	3.0 %	Đầu chủ	Chuẩn	26/11/2024 16:13	
+32	2879 Phạm Thế Hiển	128.7m	3	4.3m	10.8 tỷ	9-15 Tỷ	Tô Văn Thanh_ĐC 0969134866	3.0 %	Đầu chủ	Chuẩn	26/11/2024 11:54	
+33	28.43 Dương Bá Trạc	122m	5	4m	15.6 tỷ	15-20 Tỷ	Nguyễn Thái Hoà 0902910745	3.0 %	Đầu chủ	Chuẩn	25/11/2024 20:24	
+34	125.225.23 Nguyễn Thị Tần	58.6m	4	4.1m	6.99 tỷ	6-9 Tỷ	Đàm Thị Thái Uyên_ĐC    0902550095	3.0 %	Đầu chủ	Chuẩn	25/11/2024 15:31	
+35	102.18 Âu Dương Lân	47m	4	4m	6.9 tỷ	6-9 Tỷ	Nguyễn Thái Hoà 0902910745	3.0 %	Đầu chủ	Chuẩn	24/11/2024 21:34	
+36	101.70 Bùi Minh Trực	77.5m	4	4m	7.18 tỷ	6-9 Tỷ	Trần Tuấn Anh   0985236723	3.0 %	Đầu chủ	Chuẩn	24/11/2024 11:52	
+37	269.32P Tùng Thiện Vương	40.6/48m	3	6m	4.6 tỷ	3-6 Tỷ	Nguyễn Thái Hoà 0902910745	3.0 %	Đầu chủ	Chuẩn	23/11/2024 12:28	
+38	404.20.8 Phú Định	92m	4	5.4m	6.5 tỷ	6-9 Tỷ	Lưu Thiệu Khang_ĐC  0982119233	3.0 %	Đầu chủ	Chuẩn	22/11/2024 21:58	
+39	830 Hưng phú	57m	3	4m	17 tỷ	15-20 Tỷ	Lâm Văn Chiểu   0918998379	3.0 %	Đầu chủ	Chuẩn	18/11/2024 16:53	
+40	3L.15 Ngô Sỹ Liên	55/44m	4	4.2m	5.8 tỷ	3-6 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Đầu chủ	Chuẩn	14/11/2024 08:36	
+41	56 Đường 320 ( Phạm Hùng )	82m	4	4m	14 tỷ	9-15 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	07/11/2024 11:13	
+42	44 Đặng Thúc Liêng	49m	5	4m	6.8 tỷ	6-9 Tỷ	Trần Thị Nghĩa  0936753178	3.0 %	Hội đồng thẩm định	Chuẩn	05/11/2024 16:23	
+43	2A Lý Đạo Thành	62m	3	10m	6.4 tỷ	6-9 Tỷ	Trần Thanh Chương   0931938649	3.0 %	Đầu chủ	Chuẩn	30/10/2024 11:27	
+44	103 Đường số 9	63m	3	4.9m	6.8 tỷ	6-9 Tỷ	Trần Thị Nghĩa  0936753178	3.0 %	Hội đồng thẩm định	Chuẩn	29/10/2024 10:36	
+45	40 ( thửa 505 tờ 96 ) đường Số 48	100m	4	5m	9.7 tỷ	9-15 Tỷ	Võ Văn Anh  0909401116	3.0 %	Hội đồng thẩm định	Chuẩn	28/10/2024 16:34	
+46	109.12 Dương Bá Trạc	47/61m	4	5.3m	12 tỷ	9-15 Tỷ	Trần Thị Nghĩa  0936753178	3.0 %	Đầu chủ	Chuẩn	25/10/2024 16:49	
+47	10.23 Âu Dương Lân	68.6m	4	4.6m	8.8 tỷ	6-9 Tỷ	Đỗ Công Thành   0793593494	3.0 %	Hội đồng thẩm định	Chuẩn	24/10/2024 11:04	
+48	494.3 Phú Định	62.9m	4	4m	4.85 tỷ	3-6 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Hội đồng thẩm định	Chuẩn	24/10/2024 08:17	
+49	50 ĐƯỜNG SỐ 8	65m	3	4m	9.9 tỷ	9-15 Tỷ	Nguyễn Văn Thư_ĐC   0852349324	3.0 %	Đầu chủ	Chuẩn	23/10/2024 12:29	
+50	2695.40.2 Phạm Thế Hiển	59.8m	4	4m	6.2 tỷ	6-9 Tỷ	Nguyễn Thị Lệ Thu_ĐC    0909906958	3.0 %	Đầu chủ	Chuẩn	23/10/2024 00:00	
+51	21 Phạm Đức Sơn	90m	4	5m	19 tỷ	15-20 Tỷ	Nguyễn Kim Yến_ĐC   0931822812	3.0 %	Hội đồng thẩm định	Chuẩn	19/10/2024 02:14	
+52	769.44.8 Phạm thế Hiển	43.2m	4	4.5m	5.7 tỷ	3-6 Tỷ	Lê Minh Quyết_ĐC    0344270947	3.0 %	Hội đồng thẩm định	Chuẩn	16/10/2024 13:26	
+53	4 3441 Phạm Thế Hiển	120m	4	6m	10.8 tỷ	9-15 Tỷ	Giang Chí Vĩ_ĐC 0903848959	3.0 %	Đầu chủ	Chuẩn	16/10/2024 09:39	
+54	21 Đường số 26	80.2m	4	5m	9.4 tỷ	9-15 Tỷ	Lê Quốc Trầm    0363697575	3.0 %	Đầu chủ	Chuẩn	11/10/2024 15:37	
+55	47 đường 3419 Phạm Thế Hiển	88m	5	4m	7.95 tỷ	6-9 Tỷ	Đinh Thị Ánh Tuyết  0795641489	3.0 %	Đầu chủ	Chuẩn	10/10/2024 16:50	
+56	451.34.17 Phạm Thế Hiển	54/56m	4	4m	8.5 tỷ	6-9 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Đầu chủ	Chuẩn	10/10/2024 08:51	
+57	39A.5 Dạ Nam	73.3m	5	4.5m	9.5 tỷ	9-15 Tỷ	Đàm Thị Thái Uyên_ĐC    0902550095	3.0 %	Hội đồng thẩm định	Chuẩn	09/10/2024 18:11	
+58	132.6.7D Liên Tỉnh 5	44.7m	4	4m	5.3 tỷ	3-6 Tỷ	Mạc Thị Thu Thịnh   0335559093	3.0 %	Đầu chủ	Chuẩn	08/10/2024 10:18	
+59	8 Đường số 284 Cao Lỗ	80m	4	4m	13.9 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Đầu chủ	Chuẩn	04/10/2024 17:16	
+60	258.7.1.29A Bông Sao	53.7m	4	4.1m	8.95 tỷ	6-9 Tỷ	Trần Tuấn Anh   0985236723	3.0 %	Đầu chủ	Chuẩn	01/10/2024 23:17	
+61	2695.16 Phạm Thế Hiển	40/60m	10	4m	4.7 tỷ	3-6 Tỷ	Nguyễn Tấn Hưng_ĐC  0987296733	3.0 %	Đầu chủ	Chuẩn	29/09/2024 11:49	
+62	114 Đường Số 2	80m	5	5m	10.8 tỷ	9-15 Tỷ	Đinh Văn Quang  0911278865	3.0 %	Hội đồng thẩm định	Chuẩn	27/09/2024 14:28	
+63	231.36 Dương Bá Trạc	75m	3	4m	8.7 tỷ	6-9 Tỷ	Nguyễn Minh Triều_ĐC    0918328435	3.0 %	Đầu chủ	Chuẩn	26/09/2024 12:16	
+64	68 Đường 3413 Phạm Thế Hiển	88m	4	4m	9 tỷ	6-9 Tỷ	Võ Đình Thanh   0902485485	3.0 %	Hội đồng thẩm định	Chuẩn	24/09/2024 09:22	
+65	13 Đường 3052 Phạm Thế Hiển	108m	4	6m	11.5 tỷ	9-15 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Hội đồng thẩm định	Chuẩn	20/09/2024 15:40	 
+66	114 105 , Trịnh Quang Nghị	120m	4	5m	9.99 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	20/09/2024 12:44	
+67	09 Đường số 7 khu dân cư Bình Đăng	67m	5	4.2m	16 tỷ	15-20 Tỷ	Hoàng Viết Cường Tứ 0981796969	3.0 %	Hội đồng thẩm định	Chuẩn	16/09/2024 13:03	
+68	244.4A.1 Phú Định	47m	4	4.8m	5.2 tỷ	3-6 Tỷ	Huỳnh Công Thạch_ĐC 0936833037	3.0 %	Hội đồng thẩm định	Chuẩn	15/09/2024 13:50	
+69	78 Đường E Khu Dân Cư Bình Điền	115m	4	8m	14 tỷ	9-15 Tỷ	Phạm Mạnh Hợp   0768688865	3.0 %	Hội đồng thẩm định	Chuẩn	10/09/2024 18:04	
+70	19.17.8 Lý Đạo Thành	51m	4	4m	5 tỷ	3-6 Tỷ	Nguyễn Văn Sang 0938061929	150 triệu	Đầu chủ	Chuẩn	09/09/2024 14:34	
+71	40 Đường số 4	65.8m	5	4.1m	12.5 tỷ	9-15 Tỷ	Nguyễn Hoàng Kim    0846426688	3.0 %	Đầu chủ	Chuẩn	05/09/2024 19:31	
+72	121 Đường 35A Trịnh Quang Nghị	100m	4	5m	9.6 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Đầu chủ	Chuẩn	01/09/2024 11:11	
+73	116.28 Nguyễn Thị Tần	61m	6	4m	11.6 tỷ	9-15 Tỷ	Nguyễn Thanh Nga    0868135635	3.0 %	Hội đồng thẩm định	Chuẩn	25/08/2024 13:27	
+74	118 Trịnh Quang Nghị	88/72m	3	4m	11.4 tỷ	9-15 Tỷ	Phạm Mạnh Hợp   0768688865	3.0 %	Đầu chủ	Chuẩn	25/08/2024 12:16	
+75	26 Trần Văn Thành	93.1m	4	6.2m	12 tỷ	9-15 Tỷ	Đoàn Khắc Châu Sang 0906077072	3.0 %	Hội đồng thẩm định	Chuẩn	22/08/2024 11:42	
+76	114 Phong Phú	179.3m	3	5.6m	19.4 tỷ	15-20 Tỷ	Quách Thanh Hải_ĐC  0948275995	3.0 %	Đầu chủ	Chuẩn	17/08/2024 12:50	
+77	366.4 Bình Đông	54.7m	3	6m	5.1 tỷ	3-6 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Hội đồng thẩm định	Chuẩn	10/08/2024 15:12	
+78	95 3158B Phạm Thế Hiển	120m	4	5m	8.2 tỷ	6-9 Tỷ	Nguyễn Minh Đức 0909843484	3.0 %	Đầu chủ	Chuẩn	09/08/2024 23:03	
+79	5.15A Chánh Hưng	83m	6	4m	18 tỷ	15-20 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Hội đồng thẩm định	Chuẩn	02/08/2024 08:47	
+80	102.15B Âu Dương Lân	49.1m	4	4m	6.8 tỷ	6-9 Tỷ	Mạc Thị Thu Thịnh   0335559093	3.0 %	Đầu chủ	Chuẩn	01/08/2024 21:30	
+81	5 Lô I Nguyễn Thị Tần	49/45.1m	5	4m	9.899 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	01/08/2024 17:56	
+82	2143.35 Phạm Thế Hiển	47.5m	3	4m	3.8 tỷ	3-6 Tỷ	Nguyễn Duy Nhất 0902423929	100 triệu	Đầu chủ	Chuẩn	28/07/2024 21:20	
+83	42 Đường số 1	110m	5	5m	12.2 tỷ	9-15 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Hội đồng thẩm định	Chuẩn	27/07/2024 15:30	
+84	154.136.9 Âu Dương Lân	44/45m	4	4m	6.3 tỷ	6-9 Tỷ	Phan Thị Hương  0934632268	3.0 %	Hội đồng thẩm định	Chuẩn	24/07/2024 14:38	
+85	118.16 An Dương Vương	68/70m	5	4m	9 tỷ	6-9 Tỷ	Nguyễn Anh Tuấn 0898615855	3.0 %	Đầu chủ	Chuẩn	23/07/2024 15:26	
+86	322.4D Lưu Hữu Phước	85.8/79m	3	5.8m	5.35 tỷ	3-6 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	22/07/2024 12:44	
+87	63 Bùi Huy Bích	63m	4	4m	8.6 tỷ	6-9 Tỷ	Võ Đình Thanh   0902485485	3.0 %	Đầu chủ	Chuẩn	19/07/2024 08:54	
+88	127.103A Bùi Minh Trực	73.1m	4	4m	9.8 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	18/07/2024 16:15	
+89	124.1.5 Mễ Cốc	97.6m	4	5m	9.3 tỷ	9-15 Tỷ	Lê Thị Hoàng Anh    0943302782	3.0 %	Hội đồng thẩm định	Chuẩn	13/07/2024 09:57	
+90	50.43D Liên tỉnh 5	53.7/56m	3	4m	7.2 tỷ	6-9 Tỷ	Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	09/07/2024 12:32	
+91	21A' Hoàng Minh Đạo	68.5m	3	4m	8.2 tỷ	6-9 Tỷ	Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	07/07/2024 12:13	
+92	5B Bùi Minh Trực	67m	4	4.1m	18 tỷ	15-20 Tỷ	Lưu Thiệu Lương 0903006428	3.0 %	Hội đồng thẩm định	Chuẩn	05/07/2024 11:31	
+93	78 Đường số 105	120m	4	5m	11 tỷ	9-15 Tỷ	Lý Đốc Thuận_ĐC 0908800768	3.0 %	Hội đồng thẩm định	Chuẩn	26/06/2024 16:15	
+94	20 Đường 3441 Phạm Thế Hiển	120m	4	6m	11.9 tỷ	9-15 Tỷ	Nguyễn Thị Lệ Thương    0932065115	375 triệu	Hội đồng thẩm định	Chuẩn	26/06/2024 13:17	
+95	30 267ABa Tơ	95m	4	5m	9 tỷ	6-9 Tỷ	Nguyễn Thị Anh Đào  0937316618	3.0 %	Hội đồng thẩm định	Chuẩn	25/06/2024 23:39	
+96	260.69 Lưu Hữu Phước	90m	4	5.5m	5.5 tỷ	3-6 Tỷ	Nguyễn Văn Tuấn 0905264102	165 triệu	Đầu chủ	Chuẩn	23/06/2024 14:16	
+97	184.38.5 Âu Dương Lân	85m	4	4m	8.5 tỷ	6-9 Tỷ	Trần Kim Long   0936293818	3.0 %	Đầu chủ	Chuẩn	20/06/2024 14:13	
+98	2805.34.30 Phạm Thế Hiển	70/80m	4	5.3m	4.4 tỷ	3-6 Tỷ	Trần Kim Long   0936293818	3.0 %	Đầu chủ	Chuẩn	20/06/2024 10:48	
+99	2491.10.1 Phạm Thế Hiển	54.4m	3	8m	4.1 tỷ	3-6 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	10/06/2024 17:55	
+100	9 Mai Hắc Đế	143/150m	3	5m	11.5 tỷ	9-15 Tỷ	Trần Thị Thanh Thảo 0985137984	3.0 %	Hội đồng thẩm định	Chuẩn	30/05/2024 23:14	
+101	258.70 Dương Bá Trạc	137/140m	3	5.2m	16.5 tỷ	15-20 Tỷ	Nguyễn Minh Triều_ĐC    0918328435	3.0 %	Đầu chủ	Chuẩn	30/05/2024 11:57	
+102	58 Trương Đình Hội	43.8m	6	5m	6.97 tỷ	6-9 Tỷ	Đỗ Phước Lộc - Đầu chủ  0905931456	3.0 %	Đầu chủ	Chuẩn	21/05/2024 11:32	
+103	350.5B lưu hữu phước	78m	3	6m	4.1 tỷ	3-6 Tỷ	Nguyễn Thị Soan_ĐC  0944050289	3.0 %	Đầu chủ	Chuẩn	17/05/2024 15:33	
+104	Thửa đất Số 2252. Tờ Bản đổ Số 30 Quốc lộ 50	42.5m	3	4m	1.8 tỷ	< 3 Tỷ	Nguyễn Duy Nhất 0902423929	100 triệu	Đầu chủ	Chuẩn	16/05/2024 23:10	
+105	17 Đường D1	108m	5	6m	10 tỷ	9-15 Tỷ	Nguyễn Đức Minh 0962314009	3.0 %	Đầu chủ	Chuẩn	07/05/2024 14:40	
+106	773 Ba Đình	141m	6	6m	19 tỷ	15-20 Tỷ	Hoàng Viết Cường Tứ 0981796969	3.0 %	Đầu chủ	Chuẩn	04/05/2024 16:28	
+107	128.23 +128.25 Nguyễn Chế Nghĩa	61.9m	4	5.7m	8.5 tỷ	6-9 Tỷ	Nguyễn Thị Anh Đào  0937316618	3.0 %	Hội đồng thẩm định	Chuẩn	03/05/2024 23:21	
+108	9 Lô I Nguyễn Thị Tần	48/50m	3	4m	9 tỷ	6-9 Tỷ	Trần Kim Long   0936293818	3.0 %	Đầu chủ	Chuẩn	24/04/2024 10:38	
+109	55.4b trương đình hội	50m	4	4m	5.9 tỷ	3-6 Tỷ	Đỗ Ngọc Sáng    0909595037	3.0 %	Hội đồng thẩm định	Chuẩn	23/04/2024 13:25	 
+110	100A.44 Dương Bá Trạc	94m	3	4.2m	10.8 tỷ	9-15 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Đầu chủ	Chuẩn	18/04/2024 11:01	
+111	281A Lưu Hữu Phước	66.3m	5	4m	8.2 tỷ	6-9 Tỷ	Ngô Minh Hoàng  0909381222	3.0 %	Hội đồng thẩm định	Chuẩn	08/04/2024 22:04	
+112	35 3158c phạm thế hiển	96m	4	4m	6.5 tỷ	6-9 Tỷ	Nguyễn Quang Khôi_ĐC    0937028226	3.0 %	Đầu chủ	Chuẩn	06/04/2024 13:11	
+113	290A.100A Dương Bá Trạc	59m	5	4m	6.5 tỷ	6-9 Tỷ	Nguyễn Nam Hồng_ĐC  0938475675	200 triệu	Đầu chủ	Chuẩn	30/03/2024 17:17	
+114	42 A1	100m	5	5m	9 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	29/03/2024 16:56	
+115	đường số 3643B Phạm Thế Hiển 87	120m	4	5m	7.799 tỷ	6-9 Tỷ	Đỗ Phước Lộc - Đầu chủ  0905931456	3.0 %	Đầu chủ	Chuẩn	25/03/2024 23:02	
+116	148 Bông Sao	68m	5	4.3m	16 tỷ	15-20 Tỷ	Phan Xuân An_ĐC 0905849866	3.0 %	Đầu chủ	Chuẩn	24/03/2024 16:01	
+117	219.34 Tạ Quang Bửu	116.5m	4	4m	12.7 tỷ	9-15 Tỷ	Đặng Hoàng Tuân 0937539888	3.0 %	Đầu chủ	Chuẩn	19/03/2024 13:41	
+118	12 Đường số 4 KDC Bình Đăng	65.2m	5	4m	11.2 tỷ	9-15 Tỷ	Trần Kim Long   0936293818	3.0 %	Đầu chủ	Chuẩn	03/03/2024 12:15	
+119	3.2 An Đình Tài	46.8m	4	4m	5.99 tỷ	3-6 Tỷ	Đầu chủ Nguyễn Thị Anh Đào  0937316618	3.0 %	Hội đồng thẩm định	Chuẩn	19/01/2024 18:39	
+120	53.11 Phú Định	138.5m	3	5m	10 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Thị Anh Đào  0937316618	3.0 %	Hội đồng thẩm định	Chuẩn	17/01/2024 22:09	
+121	25 Đường 156 An Dương Vương	90m	5	4.5m	15.9 tỷ	15-20 Tỷ	Trưởng phòng Nguyễn Viết Quân   0845116146	3.0 %	Đầu chủ	Chuẩn	05/01/2024 10:15	
+122	47 đường số 5	75.6m	4	5m	14.2 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	17/12/2023 11:47	
+123	150.29 Phú Định	57m	3	4.1m	4.8 tỷ	3-6 Tỷ	Đầu chủ Trần Thị Nghĩa  0936753178	3.0 %	Đầu chủ	Chuẩn	08/12/2023 15:05	
+124	16 Đường Số 3	72m	4	4.5m	14 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	06/12/2023 10:58	
+125	45 hoặc 45A Mai Hắc Đế	60m	4	5m	7.7 tỷ	6-9 Tỷ	Đầu chủ Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	14/11/2023 14:39	
+126	45+45a Mai Hắc Đế	123.6m	4	10m	14.5 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	14/11/2023 14:30	
+127	97 320 Bông Sao	67.5m	4	5m	15.2 tỷ	15-20 Tỷ	Đầu chủ Nguyễn Thị Lệ Thu   0909906958	3.0 %	Đầu chủ	Chuẩn	01/11/2023 17:12	
+128	17 Lô V Nguyễn Thị Tần	48m	5	4m	10 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Triệu Đức Trung  0902893486	3.0 %	Đầu chủ	Chuẩn	01/11/2023 15:34	
+129	3415 phạm thế hiển	115m	4	4.2m	9.9 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Triệu Đức Trung  0902893486	3.0 %	Hội đồng thẩm định	Chuẩn	28/10/2023 16:53	
+130	117 Võ Liêm Sơn	80m	5	4m	16.5 tỷ	15-20 Tỷ	Đinh Công Hoàng Anh Vũ  0934000185	3.0 %	Đầu chủ	Chuẩn	17/10/2023 14:16	
+131	59 Đường 105D Trịnh Quang Nghị	110m	4	5m	8.9 tỷ	6-9 Tỷ	Đầu chủ Nguyễn Tấn Long 0974345725	3.0 %	Đầu chủ	Chuẩn	08/10/2023 21:34	
+132	13 đường 817 Tạ Quang Bửu	70m	4	5m	14.5 tỷ	9-15 Tỷ	Phan Xuân An    0905849866	3.0 %	Đầu chủ	Chuẩn	11/09/2023 20:30	
+133	39.38 Nguyễn Ngọc Cung	122m	4	8m	11.5 tỷ	9-15 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Đầu chủ	Chuẩn	04/09/2023 16:35	
+134	27 Hoàng Minh Đạo	97.2m	3	6.5m	35 tỷ	30-50 Tỷ	Đầu chủ Trần Thị Nghĩa  0936753178	3.0 %	Đầu chủ	Chuẩn	31/07/2023 15:41	
+135	172.183.22-24 An Dương Vương	94m	5	8m	13.999 tỷ	9-15 Tỷ	Võ Long Hồ  0971009920	3.0 %	Đầu chủ	Chuẩn	16/07/2023 18:59	
+136	6 Đường số 48 Khu nhà ở & thương mại Công ty Bảo Châu	100m	3	5m	8.3 tỷ	6-9 Tỷ	Nguyễn Viết Quân    0845116146	3.0 %	Đầu chủ	Chuẩn	19/06/2023 16:50	
+137	159A.7 Dạ Nam	85.5m	3	5m	9.2 tỷ	9-15 Tỷ	Trưởng phòng Phạm Thị Mến   0989998427	3.0 %	Đầu chủ	Chuẩn	20/05/2023 15:08	
+138	33 Số 19 - Phạm Thế Hiển	85m	4	5m	8.2 tỷ	6-9 Tỷ	Đầu chủ Bùi Văn Minh    0962988143	3.0 %	Đầu chủ	Chuẩn	19/05/2023 23:06	
+139	297 Phạm Thế Hiển	80m	4	4m	17.6 tỷ	15-20 Tỷ	Trưởng phòng Nguyễn Thị Soan    0944050289	3.0 %	Đầu chủ	Chuẩn	24/04/2023 18:53	
+140	263.34.8 Liên Tỉnh 5	63.2m	3	4m	6.5 tỷ	6-9 Tỷ	Nguyễn Tấn Phùng    0902729090	3.0 %	Đầu chủ	Chuẩn	21/02/2023 21:54	
+141	119B.60 Nguyễn Thị Tần Nguyễn thị Tần	123/123.1m	4	5m	12.8 tỷ	9-15 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	26/01/2023 13:12	
+142	40 Tạ Quang Bửu	69.9m	5	4.2m	13.5 tỷ	9-15 Tỷ	Bá tước Bùi Tiến Tới    0774915668	3.0 %	Đầu chủ	Chuẩn	25/12/2022 07:19	
+143	166 Dương Bá Trạc	50.6m	4	4.1m	18 tỷ	15-20 Tỷ	Nguyễn Thị Soan 0944050289	3.0 %	Đầu chủ	Chuẩn	10/12/2022 13:03	
+144	361.14.23 Bình Đông	65.3m	3	5.2m	5.1 tỷ	3-6 Tỷ	Nguyễn Minh Triều   0918328435	3.0 %	Đầu chủ	Chuẩn	09/12/2022 08:45	
+145	137.52 Cao Xuân Dục	101.4m	3	5.2m	8.5 tỷ	6-9 Tỷ	Nguyễn Thị Lệ Thu   0909906958	3.0 %	Đầu chủ	Chuẩn	01/12/2022 17:37	
+146	150.54 Phú Định	60m	3	4m	6.2 tỷ	6-9 Tỷ	Bùi Sỹ Hồng 0931887186	3.0 %	Đầu chủ	Chuẩn	01/07/2022 14:03	
+147	308 Tùng Thiện Vương	60.3/52m	3	4m	16.9 tỷ	15-20 Tỷ	Hoàng Mạnh Quân 0901804444	3.0 %	Đầu chủ	Chuẩn	19/10/2021 19:33	

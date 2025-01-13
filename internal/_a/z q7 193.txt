@@ -1,0 +1,194 @@
+STT	Địa chỉ	Diện tích	Tầng	Mặt tiền	Giá chào	Phân khúc	Phụ trách	Hoa hồng(%)	Nguồn	Trạng thái	Gửi đăng ký	Cam kết	Khu vực	Thao tác
+1	137 Đường số 37	80/78m	6	4m	19.9 tỷ	15-20 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Hội đồng thẩm định	Chuẩn	12/01/2025 18:26	
+2	A2.07.01 Tháp S1 - Chung cư Sunshine Sky City Phú Thuận	93.9/95.1m	7	10m	6.2 tỷ	6-9 Tỷ	Trưởng phòng Hằng - TK ĐC   0899656808	3.0 %	Đầu chủ	Chuẩn	12/01/2025 09:44	
+3	29 Đường số 77	116/120m	3	5m	18.2 tỷ	15-20 Tỷ	Nguyễn Văn Tuấn_ĐC  0355538999	3.0 %	Đầu chủ	Chuẩn	11/01/2025 11:03	
+4	M8 Đường Số D7	90m	4	5m	16.5 tỷ	15-20 Tỷ	Đặng Văn Cơ 0949619121	3.0 %	Đầu chủ	Chuẩn	09/01/2025 11:20	
+5	803.97.8 Huỳnh Tấn Phát	56.4m	5	4m	7.7 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Hội đồng thẩm định	Chuẩn	08/01/2025 14:45	
+6	33.46 Đường Số 1	57.5m	3	4m	8.9 tỷ	6-9 Tỷ	Cao Tuấn Anh_ĐC 0798385666	3.0 %	Đầu chủ	Chuẩn	06/01/2025 23:10	 	 
+7	81 Nguyễn Thị Thập	74/108m	5	4m	24.5 tỷ	20-30 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Hội đồng thẩm định	Chuẩn	06/01/2025 21:59	
+8	77.42.3 Chuyên Dùng 9	77.4m	3	9.4m	6.8 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	04/01/2025 16:12	
+9	257.9 (số cũ 357) Nguyễn Thị Thập	84/108m	4	5m	11.2 tỷ	9-15 Tỷ	Lương Trần Tuyết Nhanh  0886827513	3.0 %	Đầu chủ	Chuẩn	03/01/2025 19:45	
+10	17J Đường số 3(J )	80m	3	4m	16.9 tỷ	15-20 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	02/01/2025 21:53	
+11	13 Đường số 3	72m	4	4m	12.7 tỷ	9-15 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	01/01/2025 09:51	
+12	997.31.3 Trần Xuân Soạn	48m	3	8m	6.98 tỷ	6-9 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Đầu chủ	Chuẩn	30/12/2024 11:33	
+13	21 Đường số 12	120m	4	5m	15 tỷ	9-15 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Đầu chủ	Chuẩn	28/12/2024 21:45	
+14	52.9.1F Nguyễn thị Thập	54.3m	4	4.5m	9.8 tỷ	9-15 Tỷ	Lê Minh Quyết_ĐC    0344270947	3.0 %	Đầu chủ	Chuẩn	28/12/2024 18:33	
+15	92A23 gò ô môi	90m	4	5m	16.5 tỷ	15-20 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	26/12/2024 18:55	
+16	1041.62.59.29.2 Trần Xuân Soạn	40m	3	4m	5.2 tỷ	3-6 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Đầu chủ	Chuẩn	25/12/2024 22:01	
+17	59 lô E phú thuận	80m	5	4m	11.9 tỷ	9-15 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	25/12/2024 12:51	
+18	24 số 2B	80m	4	5m	13.999 tỷ	9-15 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Đầu chủ	Chuẩn	22/12/2024 21:16	
+19	1135.41.20.34 Huỳnh Tấn Phát	52m	3	4.1m	6.05 tỷ	6-9 Tỷ	Đỗ Minh Tâm_ĐC  0898469123	3.0 %	Đầu chủ	Chuẩn	22/12/2024 20:55	
+20	A5 D1	92.5m	4	5m	17.5 tỷ	15-20 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	22/12/2024 16:27	
+21	KC52.5 Huỳnh Tấn Phát	72m	4	5m	7.85 tỷ	6-9 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	21/12/2024 18:37	
+22	295.2 Phạm Hữu Lầu	110.2m	3	8m	8.9 tỷ	6-9 Tỷ	Trần Thị Thuỷ Tiên  0914722866	3.0 %	Đầu chủ	Chuẩn	16/12/2024 12:55	
+23	D13 Dự Án công ty vạn Phát Hưng	90m	3	5m	14.6 tỷ	9-15 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	15/12/2024 21:57	
+24	50 Lý Phục Man	55m	6	4.5m	14.8 tỷ	9-15 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	10/12/2024 09:45	
+25	168 Nguyễn văn quỳ	64m	5	5m	11.5 tỷ	9-15 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Đầu chủ	Chuẩn	08/12/2024 19:29	
+26	465.9.1 Trần Xuân Soạn	88.5/112m	3	7.2m	18 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	08/12/2024 18:39	
+27	41.36.1E Chuyên Dùng Chính	62m	4	4m	7.8 tỷ	6-9 Tỷ	Vũ Thị Hường    0866160877	200 triệu	Đầu chủ	Chuẩn	07/12/2024 08:07	
+28	165.16 Nguyễn Thị Thập	60m	4	5m	9.4 tỷ	9-15 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Đầu chủ	Chuẩn	06/12/2024 19:31	
+29	95.77.2 Lê Văn Lương	46.8m	4	4.2m	7.6 tỷ	6-9 Tỷ	Tô Văn Thanh_ĐC 0969134866	3.0 %	Hội đồng thẩm định	Chuẩn	06/12/2024 12:22	
+30	Số 3 Đường số 1 phạm hữu lầu	71.4m	4	5m	15.9 tỷ	15-20 Tỷ	Trần Thị Thuỷ Tiên  0914722866	3.0 %	Đầu chủ	Chuẩn	06/12/2024 11:43	
+31	21.13 Tân Mỹ	84.1m	5	5.5m	15.7 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	04/12/2024 19:05	
+32	824.4 huỳnh tấn phát	68m	3	5.5m	8.6 tỷ	6-9 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	04/12/2024 16:45	
+33	836.3 ( thửa 503 tờ 42 ) Huỳnh Tấn Phát	83/100m	3	4m	7.7 tỷ	6-9 Tỷ	Vũ Thị Hường    0866160877	2.0 %	Đầu chủ	Chuẩn	02/12/2024 10:02	
+34	1135.63 Huỳnh Tấn Phát	59.2m	4	4m	7.4 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	01/12/2024 14:18	
+35	172 đường số 8, Khu dân cư Nam Long	120m	4	5m	16.999 tỷ	15-20 Tỷ	Trần Ngọc Ngà_ĐC    0909009328	3.0 %	Đầu chủ	Chuẩn	30/11/2024 11:38	
+36	35A Đường Số 1	80.5m	7	4m	16 tỷ	15-20 Tỷ	Đặng Văn Cơ 0949619121	3.0 %	Hội đồng thẩm định	Chuẩn	28/11/2024 12:54	
+37	730.2 Huỳnh Tấn Phát	51.9m	4	4.9m	8.8 tỷ	6-9 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	25/11/2024 15:31	
+38	1063.10A Huỳnh Tấn Phát	200/230m	3	6.5m	15 tỷ	9-15 Tỷ	Lê Thu Hương_ĐC 0937661335	3.0 %	Đầu chủ	Chuẩn	25/11/2024 09:38	 	 
+39	52.20 Tân Mỹ	43.1m	4	5m	7.5 tỷ	6-9 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Đầu chủ	Chuẩn	24/11/2024 12:05	
+40	Căn hộ D27-21.06, tầng 21 chung cư Belleza(block D) Đường Đ115	120/124m	21	6m	4.199 tỷ	3-6 Tỷ	Nguyễn Trọng Khoa   0896689914	3.0 %	Đầu chủ	Chuẩn	22/11/2024 19:47	
+41	60.2B Lâm Văn Bền	71.3m	4	8m	14.9 tỷ	9-15 Tỷ	Đoàn Khắc Châu Sang 0906077072	3.0 %	Đầu chủ	Chuẩn	21/11/2024 09:09	
+42	A17 D4 Phạm Hữu Lầu	90m	4	5m	13 tỷ	9-15 Tỷ	Lương Trần Tuyết Nhanh  0886827513	3.0 %	Hội đồng thẩm định	Chuẩn	19/11/2024 18:55	
+43	791.27.3F1 Trần Xuân Soạn	80m	4	4m	13 tỷ	9-15 Tỷ	Lê Minh Quyết_ĐC    0344270947	3.0 %	Đầu chủ	Chuẩn	16/11/2024 11:47	
+44	26 Đường số 2A	72m	4	4m	15.9 tỷ	15-20 Tỷ	Đỗ Công Thành   0793593494	3.0 %	Đầu chủ	Chuẩn	15/11/2024 19:06	
+45	37 Đường 15B	75.9m	3	5.1m	13.7 tỷ	9-15 Tỷ	Đoàn Khắc Châu Sang 0906077075	3.0 %	Hội đồng thẩm định	Chuẩn	11/11/2024 12:50	
+46	389A Trần Xuân Soạn	85m	3	12m	12.5 tỷ	9-15 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	11/11/2024 11:59	
+47	1422.59.1 Huỳnh tấn Phát	75.8m	3	5m	5.2 tỷ	3-6 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Đầu chủ	Chuẩn	11/11/2024 10:30	
+48	164.32 Đường Số 1	103.2/107m	4	6m	16 tỷ	15-20 Tỷ	Đặng Văn Cơ 0949619121	3.0 %	Đầu chủ	Chuẩn	10/11/2024 09:44	
+49	103A Phan Huy Thực	76.1m	6	4.1m	18.5 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	2.5 %	Đầu chủ	Chuẩn	05/11/2024 08:49	
+50	16.10A ( Hẻm 116 ) Đường Số 17	51.1m	5	5m	9 tỷ	6-9 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	02/11/2024 13:13	
+51	160.57.40D Nguyễn Văn Quỳ	69m	4	5m	8.8 tỷ	6-9 Tỷ	Đồng Văn Phú    0987565752	3.0 %	Hội đồng thẩm định	Chuẩn	01/11/2024 17:04	
+52	1113.41A Huỳnh Tấn Phát	63m	4	4.4m	6.8 tỷ	6-9 Tỷ	Đỗ Minh Tâm_ĐC  0898469123	3.0 %	Hội đồng thẩm định	Chuẩn	31/10/2024 11:22	
+53	52.9.1 KP3 Nguyễn Thị Thập	145m	4	5m	16 tỷ	15-20 Tỷ	Nguyễn Thị Soan_ĐC  0944050289	3.0 %	Hội đồng thẩm định	Chuẩn	30/10/2024 17:17	
+54	21 Đường Số 43 ( Kdc An Phú Hưng )	72m	4	4m	13.9 tỷ	9-15 Tỷ	Nguyễn Minh Sang    0777677768	3.0 %	Hội đồng thẩm định	Chuẩn	30/10/2024 11:50	
+55	90.24 Đường số 2	50.2m	4	4.2m	8.8 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Hội đồng thẩm định	Chuẩn	30/10/2024 08:43	
+56	6.64a trần văn khánh	83.8m	3	6.5m	6.4 tỷ	6-9 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	26/10/2024 18:18	
+57	32 số 85	79.1m	6	4m	18.8 tỷ	15-20 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	21/10/2024 20:16	
+58	216.12.10 Bùi Văn Ba	102.3m	4	7.2m	11.5 tỷ	9-15 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	17/10/2024 12:20	
+59	152 Đường Số 39	65.5m	3	5.2m	18.5 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	16/10/2024 18:35	
+60	3 Đường Số 5	60m	5	4m	12 tỷ	9-15 Tỷ	Mai Văn Trí_ĐC  0914162193	3.0 %	Đầu chủ	Chuẩn	11/10/2024 15:14	
+61	1115.70A ( Số mới: 1135.41.22 ) Huỳnh Tấn Phát	157m	4	9.9m	13.4 tỷ	9-15 Tỷ	Lê Trọng Duy_ĐC 0902846146	3.0 %	Hội đồng thẩm định	Chuẩn	10/10/2024 17:57	
+62	803.99 Huỳnh Tấn Phát	84.4m	5	7.1m	10.9 tỷ	9-15 Tỷ	Cao Tuấn Anh_ĐC 0798385666	3.0 %	Hội đồng thẩm định	Chuẩn	05/10/2024 22:50	
+63	279 Trần Xuân Soạn	87.5/114m	5	4.5m	12.2 tỷ	9-15 Tỷ	Bùi Văn Minh    0962988143	3.0 %	Đầu chủ	Chuẩn	04/10/2024 17:23	
+64	1041.82.15.8 Trần Xuân Soạn	44m	3	4m	5.6 tỷ	3-6 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Hội đồng thẩm định	Chuẩn	03/10/2024 12:25	
+65	A4 D1	92.5m	4	5m	13.6 tỷ	9-15 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	01/10/2024 13:09	
+66	44 Mai Văn Vĩnh	64/75m	5	5.2m	19.5 tỷ	15-20 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Đầu chủ	Chuẩn	30/09/2024 14:23	
+67	205.8C Huỳnh Tấn Phát	44m	3	5m	3 tỷ	< 3 Tỷ	Trần Văn Thảo   0937629486	100 triệu	Hội đồng thẩm định	Chuẩn	30/09/2024 12:30	
+68	311.1C Nguyễn thị Thập	50.3m	5	4.1m	8.5 tỷ	6-9 Tỷ	Lê Minh Quyết_ĐC    0344270947	3.0 %	Đầu chủ	Chuẩn	27/09/2024 13:40	
+69	941.20 Trần Xuân Soạn	59m	3	6m	6 tỷ	3-6 Tỷ	Bùi Sỹ Hồng 0931887186	3.0 %	Đầu chủ	Chuẩn	27/09/2024 08:30	
+70	88.64 Nguyễn Văn Quỳ	119.6/119.3m	3	4.5m	8.5 tỷ	6-9 Tỷ	Đoàn Khắc Châu Sang 0906077072	3.0 %	Hội đồng thẩm định	Chuẩn	24/09/2024 11:39	
+71	88.70 Nguyễn Văn Quỳ	122.5m	4	4.2m	10 tỷ	9-15 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Hội đồng thẩm định	Chuẩn	23/09/2024 16:43	
+72	8 Đường 2B	80m	4	5m	16.2 tỷ	15-20 Tỷ	Đặng Văn Cơ 0949619121	3.0 %	Đầu chủ	Chuẩn	21/09/2024 14:11	
+73	10 Đường số 8 ( Lý phục Man )	100m	5	4m	15.6 tỷ	15-20 Tỷ	Vũ Thị Hường    0866160877	2.0 %	Đầu chủ	Chuẩn	16/09/2024 13:45	
+74	2M Đường 9M	91m	4	4m	15.3 tỷ	15-20 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	15/09/2024 13:29	
+75	92 Lô L Đường D7	90m	4	5m	15.8 tỷ	15-20 Tỷ	Nguyễn Văn Thân 0983375097	3.0 %	Hội đồng thẩm định	Chuẩn	13/09/2024 15:00	
+76	1422.59.23 Huỳnh Tấn Phát	28/59.4m	4	4m	5.2 tỷ	3-6 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	31/08/2024 13:48	
+77	256 Phạm Hữu Lầu	68.9/85m	3	4.1m	14.8 tỷ	9-15 Tỷ	Nguyễn Minh Sang    0777677768	3.0 %	Hội đồng thẩm định	Chuẩn	31/08/2024 13:24	
+78	60.10.8c lâm văn bền	79.1m	4	5m	9.7 tỷ	9-15 Tỷ	Thái Thịnh_ĐC   0901129909	3.0 %	Đầu chủ	Chuẩn	27/08/2024 23:24	
+79	967.26A Trần Xuân Soạn	72/90m	3	4m	7.6 tỷ	6-9 Tỷ	Lê Thu Hương_ĐC 0866842452	3.0 %	Hội đồng thẩm định	Chuẩn	27/08/2024 19:08	
+80	380.49a ( 954.15.11.1 ) Lê văn lương	96/100m	4	6m	7.55 tỷ	6-9 Tỷ	Nguyễn Tấn Phùng    0902729090	3.0 %	Đầu chủ	Chuẩn	26/08/2024 10:07	
+81	30.31.24.29.3 ( Thửa 537 tờ 16 ) Lâm Văn Bền	77.8m	3	4m	9.5 tỷ	9-15 Tỷ	Lê Hữu Nghị 0904581789	3.0 %	Hội đồng thẩm định	Chuẩn	24/08/2024 17:31	
+82	253.9 Trần Xuân Soạn	153m	4	5.2m	19.5 tỷ	15-20 Tỷ	Đỗ Hoàng Hùng (HCM) 0937803800	3.0 %	Hội đồng thẩm định	Chuẩn	23/08/2024 15:45	
+83	13F Đường Số 4F	85.2m	6	4.4m	18 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	22/08/2024 12:04	
+84	793.39.6 Trần Xuân Soạn	70.8/75m	4	5m	14.55 tỷ	9-15 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	19/08/2024 09:02	
+85	793.28.3C Trần Xuân Soạn	50.2m	5	4.1m	10.5 tỷ	9-15 Tỷ	Tô Văn Thanh_ĐC 0969134866	3.0 %	Đầu chủ	Chuẩn	13/08/2024 13:52	
+86	134.3a Nguyễn Thị Thập	110m	4	7.5m	16.5 tỷ	15-20 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	11/08/2024 09:05	
+87	95.27 Lê Văn Lương	88/89m	5	4.2m	11.7 tỷ	9-15 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	10/08/2024 00:19	
+88	119.38 Nguyễn Thị Thập	80.2m	5	4.3m	13.5 tỷ	9-15 Tỷ	Tô Văn Thanh_ĐC 0969134866	3.0 %	Đầu chủ	Chuẩn	09/08/2024 11:19	
+89	458.43B Huỳnh Tấn Phát	137m	4	10m	11.8 tỷ	9-15 Tỷ	Nguyễn Văn Thân 0983375097	3.0 %	Hội đồng thẩm định	Chuẩn	08/08/2024 10:27	
+90	861.10 và 861.8 Trần Xuân Soạn	90m	4	6.2m	13 tỷ	9-15 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Đầu chủ	Chuẩn	06/08/2024 12:36	 	 
+91	458.36.10 Huỳnh Tấn Phát	121m	4	6.3m	9.3 tỷ	9-15 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Hội đồng thẩm định	Chuẩn	01/08/2024 14:06	
+92	23.25 Đường số 1	50m	4	6m	10.5 tỷ	9-15 Tỷ	Trần Thị Kim Duyên  0888097678	3.0 %	Hội đồng thẩm định	Chuẩn	24/07/2024 16:58	
+93	95.85 Lê Văn Lương	69.5m	3	4.4m	8.8 tỷ	6-9 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Đầu chủ	Chuẩn	23/07/2024 17:01	
+94	D55 Đường D1	90m	4	5m	14.2 tỷ	9-15 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Hội đồng thẩm định	Chuẩn	23/07/2024 11:19	
+95	30.57 Lâm Văn Bền	101.3/112m	3	5m	13.5 tỷ	9-15 Tỷ	Nguyễn Phước Hùng   0767310553	250 triệu	Đầu chủ	Chuẩn	15/07/2024 17:05	
+96	Số 8 Đường 44	76m	4	4m	15.8 tỷ	15-20 Tỷ	Bùi Tiến Tới_ĐC 0774915668	3.0 %	Hội đồng thẩm định	Chuẩn	12/07/2024 10:31	
+97	44.41 ( Số Cũ 44.39 ) Bùi Văn Ba	64.1m	4	4.9m	7.7 tỷ	6-9 Tỷ	Bùi Tiến Tới_ĐC 0774915668	3.0 %	Đầu chủ	Chuẩn	11/07/2024 12:45	
+98	300.7 Nguyễn Văn Linh	86m	4	4.5m	14 tỷ	9-15 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Đầu chủ	Chuẩn	09/07/2024 12:47	
+99	749.42.4 Huỳnh Tấn Phát	53m	13	4m	6.8 tỷ	6-9 Tỷ	Bùi Sỹ Hồng 0931887186	3.0 %	Đầu chủ	Chuẩn	08/07/2024 17:33	
+100	92C9 Đường C ( KDC SAVIMEX ) chợ Phú Thuận	100m	4	5m	15 tỷ	9-15 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Hội đồng thẩm định	Chuẩn	08/07/2024 07:52	
+101	1627.34 Huỳnh Tấn Phát	97m	3	5.6m	9.5 tỷ	9-15 Tỷ	Đỗ Phước Lộc - Đầu chủ  0905931456	3.0 %	Đầu chủ	Chuẩn	05/07/2024 16:25	
+102	1027.7 Huỳnh Tấn Phát	44.2m	3	4.7m	6.7 tỷ	6-9 Tỷ	Bùi Tiến Tới_ĐC 0774915668	3.0 %	Hội đồng thẩm định	Chuẩn	04/07/2024 08:11	
+103	90.10 Đường số 2	56.4m	5	5.2m	9.2 tỷ	9-15 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	17/06/2024 11:17	
+104	15.7C ( Số mới 391.47 ) Huỳnh Tấn Phát Huỳnh Tấn Phát	58m	4	5.5m	4.8 tỷ	3-6 Tỷ	Vũ Thị Hường    0866160877	3.0 %	Hội đồng thẩm định	Chuẩn	15/06/2024 14:59	
+105	142.63 Nguyễn Thị Thập	66/73.7m	3	4m	8.5 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	12/06/2024 17:16	
+106	75.5 Huỳnh Tấn Phát	60.4m	3	4.2m	6.7 tỷ	6-9 Tỷ	Nguyễn Văn Thân 0983375097	3.0 %	Hội đồng thẩm định	Chuẩn	12/06/2024 13:25	
+107	270.15E Huỳnh Tấn Phát	73.5m	4	4.2m	8.7 tỷ	6-9 Tỷ	Đỗ Công Thành   0793593494	3.0 %	Đầu chủ	Chuẩn	07/06/2024 15:03	
+108	803.23.22.29 Huỳnh Tấn Phát	58m	4	4m	6.9 tỷ	6-9 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	04/06/2024 12:39	
+109	156.46C Nguyễn Thị Thập	94.5/43m	3	5m	3.8 tỷ	3-6 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	31/05/2024 16:20	
+110	A81 Phú Thuận	116m	4	4.5m	18 tỷ	15-20 Tỷ	Đỗ Minh Tâm_ĐC  0898469123	3.0 %	Hội đồng thẩm định	Chuẩn	28/05/2024 14:21	
+111	1041.75.6.7 Trần Xuân Soạn	50.2m	4	4m	6.85 tỷ	6-9 Tỷ	Nguyễn Văn Cường    0869929639	3.0 %	Hội đồng thẩm định	Chuẩn	24/05/2024 11:31	
+112	465.2.9 Trần Xuân Soạn	70.7m	4	4.4m	11.5 tỷ	9-15 Tỷ	Đỗ Công Thành   0793593494	3.0 %	Đầu chủ	Chuẩn	21/05/2024 16:47	
+113	458.40A Huỳnh Tấn Phát	154.9m	3	4.5m	18 tỷ	15-20 Tỷ	Bùi Tiến Tới_ĐC 0774915668	3.0 %	Đầu chủ	Chuẩn	20/05/2024 12:55	
+114	412.6c huỳnh tấn phát	67.9m	3	4m	10.7 tỷ	9-15 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Đầu chủ	Chuẩn	16/05/2024 13:33	
+115	116.8 Huỳnh Tấn Phát	96m	4	10.6m	15.5 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	13/05/2024 09:58	
+116	160.35 Nguyễn Văn Quỳ	139.4m	4	7.3m	17 tỷ	15-20 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	11/05/2024 15:46	
+117	23 Đường D9	95m	5	5m	19 tỷ	15-20 Tỷ	Tô Văn Thanh_ĐC 0969134866	3.0 %	Hội đồng thẩm định	Chuẩn	11/05/2024 12:16	
+118	30.7.23.6 Lâm Văn Bền	100/98m	3	5m	10.5 tỷ	9-15 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	06/05/2024 10:45	
+119	44.24B Trần Văn Khánh	51.3m	4	5.2m	6.3 tỷ	6-9 Tỷ	Nguyễn Minh Sang    0777677768	3.0 %	Đầu chủ	Chuẩn	30/04/2024 15:50	
+120	1387.14 huỳnh tấn phát	144m	3	6m	12 tỷ	9-15 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	24/04/2024 10:53	
+121	28 số 1	85m	4	5m	15.2 tỷ	15-20 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Đầu chủ	Chuẩn	23/04/2024 14:58	
+122	308.27.24 Huỳnh Tấn Phát	137.5m	4	4.2m	12.97 tỷ	9-15 Tỷ	Nguyễn Văn Thân 0983375097	3.0 %	Hội đồng thẩm định	Chuẩn	23/04/2024 08:13	
+123	79.9B Hoàng Quốc Việt	66.2/67m	3	6m	9.5 tỷ	9-15 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Hội đồng thẩm định	Chuẩn	13/04/2024 13:35	
+124	1205.31 Huỳnh Tấn Phát	58.5m	3	4.5m	5.7 tỷ	3-6 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	10/04/2024 19:07	
+125	1135.17.9 Huỳnh Tấn Phát	56.1m	4	4m	6.9 tỷ	6-9 Tỷ	Bùi Tiến Tới_ĐC 0774915668	3.0 %	Đầu chủ	Chuẩn	04/04/2024 08:44	
+126	25 Nguyễn Văn Quỳ	86m	3	7.5m	10.9 tỷ	9-15 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Hội đồng thẩm định	Chuẩn	30/03/2024 20:20	
+127	44.20 ( Trần Văn Khánh )	143.5m	4	5m	12.5 tỷ	9-15 Tỷ	Võ Thanh Phú Quý    0937345993	3.0 %	Đầu chủ	Chuẩn	27/03/2024 16:24	
+128	156.11.14 huỳnh tấn phát	81.3m	4	4.2m	8 tỷ	6-9 Tỷ	Trần Lam Sơn_ĐC 0961868676	3.0 %	Hội đồng thẩm định	Chuẩn	25/03/2024 21:07	 	 
+129	115.7 Tân Mỹ	105m	4	7m	12.5 tỷ	9-15 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	25/03/2024 15:46	
+130	1117 Huỳnh Tấn Phát	69.3m	8	7m	2.5 tỷ	< 3 Tỷ	Lý Ánh Nguyệt   0708889779	100 triệu	Đầu chủ	Chuẩn	23/03/2024 12:03	
+131	1321.7.6 Huỳnh Tấn Phát	103.7m	4	6m	5.5 tỷ	3-6 Tỷ	Nguyễn Thị Soan 0944050289	3.0 %	Đầu chủ	Chuẩn	18/03/2024 15:53	
+132	487.46.4b Huỳnh Tấn Phát	52m	4	4.8m	9.1 tỷ	9-15 Tỷ	Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	12/03/2024 14:32	
+133	412.6B Huỳnh tấn Phát	87.2m	3	4m	12 tỷ	9-15 Tỷ	Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	04/03/2024 11:21	
+134	C7 Huỳnh Tấn Phát	137m	3	7m	17.5 tỷ	15-20 Tỷ	Đỗ Phước Lộc    0905931456	3.0 %	Đầu chủ	Chuẩn	01/03/2024 11:30	
+135	33 Đường số 1	112m	4	7m	16.9 tỷ	15-20 Tỷ	Nguyễn Viết Quân    0845116146	3.0 %	Hội đồng thẩm định	Chuẩn	28/02/2024 18:43	
+136	Lô B4 KDC Vạn Phát Hưng	120m	3	10m	19.9 tỷ	15-20 Tỷ	Bùi Văn Minh    0903162785	3.0 %	Hội đồng thẩm định	Chuẩn	26/02/2024 17:01	
+137	9.30 Trần Trọng Cung, phường Tân Thuận Đông, quận 7 Trần Trọng Cung	97.7m	4	4m	14.5 tỷ	9-15 Tỷ	Bá tước Tô Văn Thanh    0969134866	3.0 %	Hội đồng thẩm định	Chuẩn	23/02/2024 15:44	
+138	6 đường số 6 ( 515. B2 -16) Lê Văn Lương	127.9/190m	4	5m	17.5 tỷ	15-20 Tỷ	Đầu chủ Nguyễn Văn Cường    0869929639	3.0 %	Đầu chủ	Chuẩn	17/02/2024 16:35	
+139	88.3.18.19 Nguyễn văn Quỳ	67.2/78m	3	4.2m	4.38 tỷ	3-6 Tỷ	Bá tước Lê Thị Huỳnh Bá 0932062599	3.0 %	Đầu chủ	Chuẩn	10/01/2024 14:18	
+140	308.63 Huỳnh tấn Phát	100.2m	4	5m	8.5 tỷ	6-9 Tỷ	Bá tước Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	09/01/2024 11:09	
+141	791.27.10 Trần Xuân Soạn	59.1/60m	5	4.8m	7.3 tỷ	6-9 Tỷ	Đầu chủ Nguyễn Nam Hồng 0938475675	3.0 %	Đầu chủ	Chuẩn	05/01/2024 12:39	
+142	57 Đường N8	127.5m	4	7.5m	19.79 tỷ	15-20 Tỷ	Trưởng phòng Ngô Minh Hoàng 0909381222	3.0 %	Hội đồng thẩm định	Chuẩn	25/12/2023 18:18	
+143	15 đường 30 Tân Hưng, Q.7 Đường 30	72m	4	4m	14.2 tỷ	9-15 Tỷ	Trưởng phòng Nguyễn Thị Huệ 0704656679	3.0 %	Hội đồng thẩm định	Chuẩn	21/12/2023 11:59	
+144	160.45.20.2 Nguyễn Văn Quỳ	50m	3	4m	5.5 tỷ	3-6 Tỷ	Đầu chủ Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	20/12/2023 11:05	
+145	21.38 Đường số 10	67m	3	4m	10.5 tỷ	9-15 Tỷ	Trưởng phòng Cao Tuấn Anh   0798385666	3.0 %	Đầu chủ	Chuẩn	02/12/2023 10:53	
+146	308.20 (cũ 41.3A) Huỳnh Tấn Phát	116.1m	3	5m	9.7 tỷ	9-15 Tỷ	Trưởng phòng Nguyễn Thị Soan    0944050289	3.0 %	Đầu chủ	Chuẩn	27/11/2023 18:19	
+147	10 đường số 16	75.2m	5	4m	13.3 tỷ	9-15 Tỷ	Đầu chủ Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	26/11/2023 13:26	
+148	60.35D Tân Mỹ	73.9m	4	4m	7.8 tỷ	6-9 Tỷ	Đầu chủ Nguyễn Phước Hùng   0799611404	3.0 %	Đầu chủ	Chuẩn	19/11/2023 09:58	
+149	123C.20 Nguyễn Văn Quỳ	81.2m	3	6m	8.9 tỷ	6-9 Tỷ	Đầu chủ Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	17/11/2023 23:39	
+150	88.89.30.22 Nguyễn Văn quỳ	105/104.6m	3	5m	8.2 tỷ	6-9 Tỷ	Đầu chủ Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	17/11/2023 23:19	
+151	160.91.23.2 Nguyễn Văn Quỳ	99/98.6m	3	6.5m	8.5 tỷ	6-9 Tỷ	Đầu chủ Trịnh Đình Thành    0963045683	3.0 %	Đầu chủ	Chuẩn	16/11/2023 22:26	
+152	166.2 Huỳnh Tấn Phát	53.7m	3	4.5m	4.3 tỷ	3-6 Tỷ	Bá tước Bùi Tiến Tới    0774915668	3.0 %	Đầu chủ	Chuẩn	15/11/2023 15:37	
+153	142.5 Nguyễn Thị Thập, Phường Bình Thuận Quận 7 Nguyễn Thị Thập	37.4/60m	4	5m	7.85 tỷ	6-9 Tỷ	Trưởng phòng Cao Tuấn Anh   0798385666	3.0 %	Đầu chủ	Chuẩn	05/11/2023 14:52	
+154	128.59 Huỳnh Tấn Phát	48.5m	4	5.5m	5.5 tỷ	3-6 Tỷ	Trưởng phòng Đỗ Phước Lộc   0905931456	3.0 %	Đầu chủ	Chuẩn	02/11/2023 13:17	 	 
+155	701.18.9A Trần Xuân Soạn	37.3/41m	3	4.1m	4.2 tỷ	3-6 Tỷ	Đầu chủ Hồ Xuân Thanh   0901539625	3.0 %	Đầu chủ	Chuẩn	28/10/2023 15:07	
+156	2.24 Phạm Hữu Lầu	43.9/73.9m	4	4.3m	5.05 tỷ	3-6 Tỷ	Bá tước Bùi Tiến Tới    0774915668	3.0 %	Đầu chủ	Chuẩn	25/10/2023 13:36	
+157	11 (111.11) Nguyễn Thị Xíu	90.8/125m	3	5.5m	18 tỷ	15-20 Tỷ	Đầu chủ Nguyễn Phước Hùng   0799611404	3.0 %	Đầu chủ	Chuẩn	22/10/2023 15:51	
+158	1135.25.2 Huỳnh Tấn Phát	79m	3	5m	8.8 tỷ	6-9 Tỷ	Đầu chủ Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	11/10/2023 11:51	
+159	52.17 Số 17	178.3m	3	6m	13.7 tỷ	9-15 Tỷ	Đầu chủ Bùi Văn Minh    0962988143	3.0 %	Đầu chủ	Chuẩn	26/09/2023 18:55	
+160	701.16B Trần Xuân Soạn	66.4m	3	7.7m	7.2 tỷ	6-9 Tỷ	Đầu chủ Vũ Thị Hường    0866160877	3.0 %	Đầu chủ	Chuẩn	24/09/2023 14:56	
+161	62.2.4 Lâm văn Bền	77m	4	4m	10.9 tỷ	9-15 Tỷ	Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	04/08/2023 09:43	
+162	C48 Đường D1	90m	3.5	5m	16.2 tỷ	15-20 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	02/08/2023 18:43	
+163	61 Lê Thị Chợ	136.2m	4	5m	17.2 tỷ	15-20 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	28/07/2023 16:16	
+164	30.7.23.16 Lâm Văn Bền	55m	3	5m	7.4 tỷ	6-9 Tỷ	Trần Văn Thảo   0979065456	3.0 %	Đầu chủ	Chuẩn	21/07/2023 07:47	
+165	891. Huỳnh Tấn Phát	73.6m	3	4.5m	5.9 tỷ	3-6 Tỷ	Nguyễn Phước Hùng   0767310553	3.0 %	Đầu chủ	Chuẩn	11/07/2023 22:46	
+166	119.2F Nguyễn Thị Thập	138m	3	8m	17 tỷ	15-20 Tỷ	Bùi Đức Sáng    0988651778	3.0 %	Đầu chủ	Chuẩn	24/06/2023 14:11	
+167	99 Nguyễn Thị Thập	120m	5	9m	6.5 tỷ	6-9 Tỷ	Đỗ Phước Lộc    0905931456	2.0 %	Đầu chủ	Chuẩn	01/06/2023 18:18	
+168	60 Đường số 9	60m	4	4m	15.5 tỷ	15-20 Tỷ	Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	16/05/2023 13:06	
+169	33 Đường số 17	59.1/61m	4	5m	10.8 tỷ	9-15 Tỷ	Trần Văn Thảo   0937629486	3.0 %	Đầu chủ	Chuẩn	20/04/2023 11:59	
+170	1565.17 Huỳnh tấn Phát	50m	4	4.2m	7.5 tỷ	6-9 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Đầu chủ	Chuẩn	19/04/2023 20:27	
+171	1113.14.15.2 Huỳnh Tấn Phát	51.4m	4	48.3m	5.8 tỷ	3-6 Tỷ	Đầu chủ Dương Việt Anh  0327404098	3.0 %	Đầu chủ	Chuẩn	03/04/2023 11:19	
+172	103.3A,B Đường Số 53	80m	4	8m	6.2 tỷ	6-9 Tỷ	Đầu chủ Dương Việt Anh  0327404098	3.0 %	Đầu chủ	Chuẩn	18/03/2023 06:11	
+173	1545 Huỳnh Tấn Phát	126.2m	3	6m	18.6 tỷ	15-20 Tỷ	Bá tước Bùi Tiến Tới    0774915668	400 triệu	Đầu chủ	Chuẩn	17/03/2023 12:57	
+174	B19 Tân Thuận Nam Tân Thuận Nam	100m	4	5m	16.5 tỷ	15-20 Tỷ	Trưởng phòng Đinh Thị Ánh Huyền 0866975942	3.0 %	Đầu chủ	Chuẩn	17/03/2023 10:36	
+175	4A đường số 8 đường số 8	83/82.7m	5	4.5m	16.6 tỷ	15-20 Tỷ	Bùi Đình Liêm   0924366665	3.0 %	Đầu chủ	Chuẩn	10/03/2023 19:02	
+176	88.34 Nguyễn Văn Quỳ	80m	4	4m	8.4 tỷ	6-9 Tỷ	Bùi Tiến Tới    0774915668	3.0 %	Đầu chủ	Chuẩn	27/02/2023 18:58	
+177	95.52.22 Lê Văn Lương	56m	3	4.2m	7.3 tỷ	6-9 Tỷ	Bùi Tiến Tới    0774915668	3.0 %	Đầu chủ	Chuẩn	20/02/2023 15:05	
+178	1056.41.1 Huỳnh Tấn Phát	123.5m	3	7.8m	6.5 tỷ	6-9 Tỷ	Đầu chủ Đinh Công Hoàng Anh Vũ  0934000185	3.0 %	Đầu chủ	Chuẩn	16/02/2023 14:50	
+179	37 Đường số 4	93m	3	5m	13.6 tỷ	9-15 Tỷ	Trần Thị Nghĩa  0936753178	3.0 %	Đầu chủ	Chuẩn	14/02/2023 16:31	
+180	1542.29.18 Huỳnh tấn Phát	114.4m	5	6m	11 tỷ	9-15 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Đầu chủ	Chuẩn	12/01/2023 15:08	
+181	502.11.20 Huỳnh tấn Phát	82.2m	5	6.2m	11.5 tỷ	9-15 Tỷ	Bá tước Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	10/01/2023 23:23	
+182	176 79	41m	4	4.2m	12.7 tỷ	9-15 Tỷ	Nguyễn Thị Soan 0944050289	3.0 %	Đầu chủ	Chuẩn	03/12/2022 18:53	
+183	118.21 Bùi Văn Ba	96.5m	3	4.8m	11.5 tỷ	9-15 Tỷ	Trần Minh Quang 0983377911	3.0 %	Đầu chủ	Chuẩn	07/11/2022 14:07	
+184	214 Bùi Văn Ba	64.4m	3	4m	12.3 tỷ	9-15 Tỷ	Bùi Tiến Tới    0774915668	3.0 %	Đầu chủ	Chuẩn	03/11/2022 15:35	
+185	861.72.11.39D Trần Xuân Soạn	52m	4	4m	10.5 tỷ	9-15 Tỷ	Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	19/10/2022 14:52	
+186	44B.26 Bùi Văn Ba	69.2m	4	5.2m	6.99 tỷ	6-9 Tỷ	Nguyễn Thị Huệ  0704656679	3.0 %	Đầu chủ	Chuẩn	03/10/2022 14:50	
+187	2 Đường số 2B	80m	4	5m	13.15 tỷ	9-15 Tỷ	Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	25/09/2022 20:31	
+188	1565.19 Huỳnh Tấn Phát	50m	4	4.1m	6.6 tỷ	6-9 Tỷ	Nguyễn Thị Huệ  0704656679	3.0 %	Đầu chủ	Chuẩn	09/09/2022 18:24	
+189	305A Huỳnh Tấn Phát	72m	3	4.4m	11.5 tỷ	9-15 Tỷ	Nguyễn Vũ Toàn  0398586675	3.0 %	Đầu chủ	Chuẩn	08/09/2022 16:23	
+190	14 Phạm hữu lầu	95m	5	5m	18.5 tỷ	15-20 Tỷ	Lý Ánh Nguyệt   0708889779	3.0 %	Đầu chủ	Chuẩn	20/08/2022 15:17	
+191	90 Huỳnh Tấn Phát	43.9/64m	4	4m	11.5 tỷ	9-15 Tỷ	Lê Minh Quyết   0344270947	3.0 %	Đầu chủ	Chuẩn	18/07/2022 21:25	
+192	167.10 Phạm Hữu Lầu	100m	3	4m	17 tỷ	15-20 Tỷ	Đỗ Phước Lộc    0905931456	3.0 %	Đầu chủ	Chuẩn	19/06/2022 12:44	
+193	109.10B Nguyễn văn Quỳ	64m	4	5m	6 tỷ	3-6 Tỷ	Nguyễn Vũ Toàn  0398586675	3.0 %	Đầu chủ	Chuẩn	26/05/2022 13:04	

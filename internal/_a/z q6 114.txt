@@ -1,0 +1,114 @@
+1	L34 Cư Xá Phú Lâm A	121.3m	5	4m	19 tỷ	15-20 Tỷ	Vương Duy Lợi   0936420206	3.0 %	Đầu chủ	Chuẩn	12/01/2025 11:00	
+2	132C1 Tân Hoà Đông	73/105m	4	5.1m	16 tỷ	15-20 Tỷ	Huỳnh Công Thạch_ĐC 0936833037	3.0 %	Đầu chủ	Chuẩn	10/01/2025 22:53	
+3	743.31P.5 Hồng Bàng	42m	4	4.2m	4.5 tỷ	3-6 Tỷ	Phan Lê Phương Thảo 0907200045	3.0 %	Đầu chủ	Chuẩn	07/01/2025 22:03	
+4	101.50B25 Tân Hóa	40m	3	4m	5.75 tỷ	3-6 Tỷ	Ngô Châu Quận Quò   0936573047	3.0 %	Đầu chủ	Chuẩn	06/01/2025 13:41	
+5	240 Chợ Lớn	80/100m	4	4m	17.6 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	04/01/2025 18:20	
+6	T54 Cư Xá Phú Lâm D	64m	5	4m	9.9 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	04/01/2025 11:31	
+7	324 Chợ Lớn	84m	5	5.3m	18.2 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	02/01/2025 15:38	
+8	84.4 Bình Tiên	55.8m	3	7m	4.35 tỷ	3-6 Tỷ	Lý Đốc Thuận_ĐC 0908800768	3.0 %	Đầu chủ	Chuẩn	27/12/2024 12:44	
+9	131.31 Kinh Dương Vương	46.2/54.2m	5	4.2m	12 tỷ	9-15 Tỷ	Nguyễn Ngọc Xuân    0706897777	3.0 %	Đầu chủ	Chuẩn	21/12/2024 14:57	
+10	1012 Hậu Giang	121.5m	3	4m	18.3 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	21/12/2024 11:47	
+11	179.2 Kinh Dương Vương	94.8/116m	4	5m	13 tỷ	9-15 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Đầu chủ	Chuẩn	16/12/2024 12:23	
+12	52.15 Kinh Dương Vương	72m	4	4.1m	7.55 tỷ	6-9 Tỷ	Phan Lê Phương Thảo 0907200045	3.0 %	Đầu chủ	Chuẩn	15/12/2024 18:41	
+13	958.41 Hậu Giang	48.6m	3	7.3m	6.5 tỷ	6-9 Tỷ	Lý Đốc Thuận_ĐC 0908800768	3.0 %	Hội đồng thẩm định	Chuẩn	13/12/2024 18:24	
+14	683.14F.14 Hồng Bàng	101m	3	7.2m	7.5 tỷ	6-9 Tỷ	Trần Kim Long   0936293818	3.0 %	Đầu chủ	Chuẩn	02/12/2024 09:00		 
+15	921 Hồng Bàng	54m	4	4.2m	14 tỷ	9-15 Tỷ	Bùi Đức Sáng    0988651778	3.0 %	Đầu chủ	Chuẩn	29/11/2024 15:15	
+16	49 Đường số 57	64m	4	4m	9.8 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	2.0 %	Đầu chủ	Chuẩn	29/11/2024 15:14	
+17	25 24	106m	5	4.5m	16.5 tỷ	15-20 Tỷ	Huỳnh Công Thạch_ĐC 0936833037	3.0 %	Đầu chủ	Chuẩn	28/11/2024 09:23	
+18	S7B Cư Xá Phú Lâm B	47m	4	4m	7.5 tỷ	6-9 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	21/11/2024 21:37	
+19	105 Phan Văn Khoẻ	88m	5	4.2m	17.2 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	18/11/2024 17:40	
+20	103.16B Văn Thân	79.9m	4	4.3m	5.6 tỷ	3-6 Tỷ	Tô Thăng Long   0937145618	3.0 %	Đầu chủ	Chuẩn	17/11/2024 22:38	
+21	110 Đường Số 64	68m	4	4m	11.2 tỷ	9-15 Tỷ	Mai Thanh Hây   0902744818	3.0 %	Đầu chủ	Chuẩn	15/11/2024 12:02	
+22	351.27 An Dương Vương	80m	4	4m	11.5 tỷ	9-15 Tỷ	Cao Văn Hiệu    0934609368	3.0 %	Đầu chủ	Chuẩn	14/11/2024 10:15	
+23	429A Hậu Giang	38/43m	3	4.5m	5.95 tỷ	3-6 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	11/11/2024 15:46	
+24	551.31A Phạm Văn Chí	64.4m	4	5m	8.7 tỷ	6-9 Tỷ	Nguyễn Minh Đức 0909843484	3.0 %	Hội đồng thẩm định	Chuẩn	08/11/2024 17:27	
+25	135.19 Tân Hòa Đông	66.9m	3	5.2m	6.49 tỷ	6-9 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Đầu chủ	Chuẩn	06/11/2024 16:45	
+26	261.4K Hậu Giang	119.9m	3	10m	12 tỷ	9-15 Tỷ	Lý Đốc Thuận_ĐC 0908800768	3.0 %	Hội đồng thẩm định	Chuẩn	05/11/2024 22:42	
+27	143 Đường số 33	74m	4	4m	10.7 tỷ	9-15 Tỷ	Nguyễn Đức Minh 0962314009	3.0 %	Đầu chủ	Chuẩn	04/11/2024 12:30	
+28	72 Lô V Cư Xá Phú Lâm D	64m	4	4m	11.2 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	02/11/2024 14:51	
+29	240.7.45 Nguyễn Văn Luông	47m	4	4m	4.99 tỷ	3-6 Tỷ	Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	01/11/2024 15:59		 
+30	98 Đường số 2 Cư Xá Đài Ra Đa	80m	4	4m	12 tỷ	9-15 Tỷ	Phan Lê Phương Thảo 0907200045	3.0 %	Đầu chủ	Chuẩn	30/10/2024 12:15		 
+31	28 Đường số 15	64m	4	4m	12 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	29/10/2024 14:36	
+32	336.65.27 Nguyễn Văn Luông	52m	4	13.5m	6.8 tỷ	6-9 Tỷ	Lưu Thiệu Khang_ĐC  0982119233	3.0 %	Đầu chủ	Chuẩn	27/10/2024 01:43	
+33	1017.102X Hồng Bàng	66m	4	7m	5.8 tỷ	3-6 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Hội đồng thẩm định	Chuẩn	25/10/2024 16:14		 
+34	411.34.24 Bến Phú Lâm	50m	3	5.3m	5.2 tỷ	3-6 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	25/10/2024 15:42	
+35	132 Đường số 10, Cư xá đài ra đa Phú Lâm	64m	4	4m	13.2 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	25/10/2024 11:27	
+36	14 Lô B Cư Xá Phú Lâm	69m	4	4m	13 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	24/10/2024 11:02	
+37	633.12.2 Hồng Bàng	71m	4	4m	17.5 tỷ	15-20 Tỷ	Võ Thành Tín    0931410001	3.0 %	Đầu chủ	Chuẩn	23/10/2024 12:59	
+38	14 Đường số 17	72m	4	4m	13.5 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388767	3.0 %	Hội đồng thẩm định	Chuẩn	23/10/2024 12:04	
+39	49 Đường số 33	59m	4	4m	9.8 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	15/10/2024 11:01	
+40	56 Đường số 8	74m	4	4m	15.3 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	10/10/2024 16:22	
+41	69.11A Văn Thân	95.5/96m	3	4.8m	8.3 tỷ	6-9 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	09/10/2024 10:41	
+42	602B Minh Phụng	50m	3	4.1m	12.5 tỷ	9-15 Tỷ	Bùi Gia Minh    0981828533	3.0 %	Đầu chủ	Chuẩn	03/10/2024 17:49	
+43	602A Minh Phụng	50m	3	4.1m	12.5 tỷ	9-15 Tỷ	Bùi Gia Minh    0981828533	3.0 %	Đầu chủ	Chuẩn	03/10/2024 17:46	
+44	602 Minh Phụng	50m	3	4.1m	12.5 tỷ	9-15 Tỷ	Bùi Gia Minh    0981828533	3.0 %	Đầu chủ	Chuẩn	02/10/2024 15:31	
+45	303 Gia Phú	74.2m	4	4.1m	17.8 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	27/09/2024 16:51	
+46	92.4 Mai Xuân Thưởng	53m	3	4m	7 tỷ	6-9 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	19/09/2024 20:33	
+47	224.8 Mai Xuân Thưởng	67/108m	4	4.1m	7 tỷ	6-9 Tỷ	Trần Văn Kiều   0907288226	3.0 %	Đầu chủ	Chuẩn	08/09/2024 18:35	
+48	101.50A7 Tân Hóa	46.6m	6	4m	8.6 tỷ	6-9 Tỷ	Lưu Thiệu Lương 0903006428	3.0 %	Đầu chủ	Chuẩn	07/09/2024 15:03	
+49	336.16.62 Nguyễn Văn Luông	70m	3	4.5m	7.8 tỷ	6-9 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	30/08/2024 15:27	
+50	P27 Cư Xá Phú Lâm A	155m	4	4m	19 tỷ	15-20 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	28/08/2024 14:25	
+51	179.9 Phạm Văn Chí	92/100m	3	8m	8.3 tỷ	6-9 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	27/08/2024 17:09	
+52	77 Phạm Phú Thứ	109m	4	4m	13.9 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	27/08/2024 14:37	
+53	351.1C An Dương Vương	100m	20	5m	14.5 tỷ	9-15 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Hội đồng thẩm định	Chuẩn	25/08/2024 16:51	
+54	31 Cao Văn Lầu	70.8m	5	4.9m	17 tỷ	15-20 Tỷ	Nguyễn Văn Tuấn_ĐC  0355538999	3.0 %	Đầu chủ	Chuẩn	24/08/2024 21:53	
+55	695.11A Hậu Giang	70m	4	4.6m	11 tỷ	9-15 Tỷ	Nguyễn Tiến Hùng    0902696839	3.0 %	Đầu chủ	Chuẩn	19/08/2024 10:26	
+56	8 Số 17	72m	5	4m	12.5 tỷ	9-15 Tỷ	Nguyễn Vũ Thanh Liêm_ĐC 0935089952	3.0 %	Hội đồng thẩm định	Chuẩn	06/08/2024 12:26	
+57	61B kinh dương vương	43m	6	4m	14.2 tỷ	9-15 Tỷ	Nguyễn Văn Sang 0938061929	3.0 %	Đầu chủ	Chuẩn	29/07/2024 15:39	
+58	01 Nguyễn Đình Chi	100m	5	4.2m	19 tỷ	15-20 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Hội đồng thẩm định	Chuẩn	27/07/2024 09:41	
+59	36.5.21 kinh dương vương	65m	3	4m	10.5 tỷ	9-15 Tỷ	Diệp Duy Thắng  0907673831	3.0 %	Đầu chủ	Chuẩn	24/07/2024 14:23	
+60	54 Đường Số 23	88m	4	4m	17.8 tỷ	15-20 Tỷ	Võ Đình Thanh   0902485485	3.0 %	Đầu chủ	Chuẩn	20/07/2024 16:52	
+61	203.45 Phan Văn Khoẻ	78m	5	4m	9.7 tỷ	9-15 Tỷ	Nguyễn Kim Yến_ĐC   0708026901	3.0 %	Đầu chủ	Chuẩn	17/07/2024 21:07	
+62	58 Trần Văn Kiểu	72m	5	4m	12.6 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Hội đồng thẩm định	Chuẩn	15/07/2024 17:32	
+63	394 chợ lớn	72.6m	4	4.5m	12.95 tỷ	9-15 Tỷ	Nguyễn Văn Sang 0938061929	3.0 %	Đầu chủ	Chuẩn	13/07/2024 11:46	
+64	41 Lô O cư xá Phú Lâm D	97.9m	3	4.2m	12 tỷ	9-15 Tỷ	Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	11/07/2024 21:37	
+65	80.9A5 Tân Hoà Đông	65/90m	5	6m	11.6 tỷ	9-15 Tỷ	Đoàn Thanh Huy_ĐC   0931388766	3.0 %	Đầu chủ	Chuẩn	09/07/2024 11:50	
+66	12A Lô R Cư xá Phú Lâm D	48m	3	4m	14.4 tỷ	9-15 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	08/07/2024 14:31	
+67	6 Lý Chiêu Hoàng	73.4/73.1m	3	4.4m	15.3 tỷ	15-20 Tỷ	Nguyễn Hoàng Phúc   0777699645	3.0 %	Hội đồng thẩm định	Chuẩn	06/07/2024 23:08	
+68	110.42 Bà Hom	56m	3	4m	10.8 tỷ	9-15 Tỷ	Tô Thăng Long   0937145618	3.0 %	Đầu chủ	Chuẩn	30/06/2024 23:34	
+69	110.43.13 Bà Hom	66/60m	5	4m	11.8 tỷ	9-15 Tỷ	Tô Thăng Long   0937145618	3.0 %	Đầu chủ	Chuẩn	29/06/2024 21:59	
+70	04 Trần Văn Kiểu	72m	4	4m	10.9 tỷ	9-15 Tỷ	Lâm Văn Chiểu   0918998379	3.0 %	Đầu chủ	Chuẩn	29/06/2024 17:54	
+71	57.13 Tân Hoá	49.9m	3	6.7m	6.59 tỷ	6-9 Tỷ	Nguyễn Kim Yến_ĐC   0708026901	3.0 %	Hội đồng thẩm định	Chuẩn	26/06/2024 14:39	
+72	57 Đường số 14	80m	4	4m	12.95 tỷ	9-15 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Hội đồng thẩm định	Chuẩn	23/06/2024 16:58	
+73	91 Đường số 33	54m	4	4m	8.9 tỷ	6-9 Tỷ	Hoàng Đình Chương   0909387901	3.0 %	Hội đồng thẩm định	Chuẩn	19/06/2024 06:53	
+74	110.43.6 Bà Hom	68m	5	4m	11.5 tỷ	9-15 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Hội đồng thẩm định	Chuẩn	16/06/2024 23:37	
+75	45.88.20R Bình Tiên	40.6m	3	5.7m	4.7 tỷ	3-6 Tỷ	Nguyễn Văn Thân 0983375097	3.0 %	Hội đồng thẩm định	Chuẩn	13/06/2024 12:36	
+76	603 Lò Gốm	100m	4	4.3m	15 tỷ	9-15 Tỷ	Phan Lê Phương Thảo 0907200045	3.0 %	Đầu chủ	Chuẩn	11/06/2024 16:05	
+77	125.36 Phạm Văn Chí	93/110m	4	4m	12.7 tỷ	9-15 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Đầu chủ	Chuẩn	07/06/2024 19:18	
+78	208 Đường Số 2 Cư Xá Đài Rađa	80m	4	4m	9.999 tỷ	9-15 Tỷ	Nguyễn Tuấn Kiệt    0392204156	3.0 %	Đầu chủ	Chuẩn	27/05/2024 09:44	
+79	57.1.5 Tân Hóa	42m	3	5m	4.2 tỷ	3-6 Tỷ	Nguyễn Xuân Vinh_ĐC 0968576786	3.0 %	Đầu chủ	Chuẩn	24/05/2024 15:50	
+80	753.11 Lò Gốm	92m	4	6.5m	13.5 tỷ	9-15 Tỷ	Nguyễn Minh Khương  0906991916	3.0 %	Hội đồng thẩm định	Chuẩn	19/05/2024 12:30	
+81	579.1 Lò Gốm	48m	4	4.3m	6.2 tỷ	6-9 Tỷ	Lê Trọng Duy_ĐC 0779793868	3.0 %	Hội đồng thẩm định	Chuẩn	29/04/2024 09:14	
+82	107B Nguyễn Văn Luông	45m	4	4.5m	11.5 tỷ	9-15 Tỷ	Trần Thị Kim Duyên  0888097678	3.0 %	Đầu chủ	Chuẩn	26/04/2024 18:05	
+83	371.10 Hậu Giang	82m	5	4.7m	14.5 tỷ	9-15 Tỷ	Nguyễn Vũ Thanh Liêm_ĐC 0935089952	3.0 %	Hội đồng thẩm định	Chuẩn	16/04/2024 15:57	
+84	F62A Cư xá Phú Lâm B	101.9m	3	4.2m	13.3 tỷ	9-15 Tỷ	Hà Chí Thiện    0938087966	3.0 %	Đầu chủ	Chuẩn	11/04/2024 11:12	
+85	59.11 Tân Hoà Đông	50m	4	4m	5.7 tỷ	3-6 Tỷ	Hoàng Viết Cường Tứ 0981796969	3.0 %	Đầu chủ	Chuẩn	18/03/2024 21:48	
+86	L13 Cư Xá Phú Lâm A	83m	4	4m	13.7 tỷ	9-15 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Hội đồng thẩm định	Chuẩn	11/03/2024 13:15	
+87	240.13.34 Nguyễn Văn Luông	45m	3	4.5m	4.25 tỷ	3-6 Tỷ	Huỳnh Công Thạch    0936833037	3.0 %	Đầu chủ	Chuẩn	01/03/2024 22:17	
+88	27 Nguyễn Văn Luông	53/80m	4	4m	13.3 tỷ	9-15 Tỷ	Nguyễn Xuân Vinh    0968576786	3.0 %	Hội đồng thẩm định	Chuẩn	25/02/2024 12:34	
+89	839 Hồng Bàng	71m	4	4m	18 tỷ	15-20 Tỷ	Đầu chủ Võ Thành Tín    0931410001	3.0 %	Đầu chủ	Chuẩn	22/01/2024 15:57	
+90	489B.24.13 Hậu Giang	56.2m	5	5m	9.5 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Đức Minh 0962314009	3.0 %	Đầu chủ	Chuẩn	17/01/2024 00:06	
+91	489B.21 Hậu Giang	51.8m	6	6.4m	12.9 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Đức Minh 0962314009	3.0 %	Đầu chủ	Chuẩn	16/01/2024 23:54	
+92	8 Mai Xuân Thưởng	73.7m	6	4.1m	17 tỷ	15-20 Tỷ	Đầu chủ Nguyễn Thị Lệ Thương    0932065115	500 triệu	Hội đồng thẩm định	Chuẩn	06/01/2024 09:16	
+93	80 Đường Số 9	54m	5	8m	10.5 tỷ	9-15 Tỷ	Trưởng phòng Nguyễn Duy Bảo 0903373630	3.0 %	Đầu chủ	Chuẩn	30/12/2023 21:54	
+94	57.8.9 Tân Hoá	40m	4	4.6m	4.2 tỷ	3-6 Tỷ	Đầu chủ Hoàng Viết Cường Tứ 0981796969	3.0 %	Đầu chủ	Chuẩn	26/12/2023 17:57	
+95	551.12A Phạm Văn Chí	117m	5	4.3m	12 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Tấn Long 0974345725	300 triệu	Đầu chủ	Chuẩn	01/12/2023 18:29	
+96	64 đường số 25	90m	4	4.5m	13.5 tỷ	9-15 Tỷ	Đầu chủ Võ Thành Tín    0931410001	3.0 %	Đầu chủ	Chuẩn	29/11/2023 15:46	
+97	260.7 Bà Hom	82.1m	4	6.3m	10.3 tỷ	9-15 Tỷ	Đầu chủ Nguyễn Duy Nhất 0902423929	3.0 %	Đầu chủ	Chuẩn	16/11/2023 21:37	
+98	268F An Dương Vương	100m	5	4m	14.9 tỷ	9-15 Tỷ	Đầu chủ Vũ Văn Thứ  0984633334	3.0 %	Đầu chủ	Chuẩn	14/10/2023 15:17	
+99	80 Đường số 30	80m	4	8m	17.5 tỷ	15-20 Tỷ	Đầu chủ Vũ Văn Thứ  0984633334	3.0 %	Đầu chủ	Chuẩn	14/10/2023 08:09	
+100	E33 Cư xá Phú Lâm B	83m	3	4m	15.3 tỷ	15-20 Tỷ	Đầu chủ Chiếng Nhật Tân 0362624425	500 triệu	Đầu chủ	Chuẩn	06/10/2023 09:42	
+101	265 Đường số 2	45m	4	4.5m	8 tỷ	6-9 Tỷ	Đầu chủ Ngô Thanh Tú    0904473961	3.0 %	Đầu chủ	Chuẩn	04/10/2023 09:57	
+102	263 Đường số 2	45m	4	4.5m	8 tỷ	6-9 Tỷ	Đầu chủ Ngô Thanh Tú    0904473961	3.0 %	Đầu chủ	Chuẩn	04/10/2023 09:53	
+103	72/6 Nguyễn Đình Chi	92m	3	7.2m	6.5 tỷ	6-9 Tỷ	Đầu chủ Tô Thăng Long   0937145618	3.0 %	Đầu chủ	Chuẩn	17/09/2023 15:23	
+104	131.26 Kinh Dương Vương	163.4m	4	8m	16.5 tỷ	15-20 Tỷ	Võ Trần Hoàng Minh  0707123716	3.0 %	Đầu chủ	Chuẩn	16/09/2023 13:16	
+105	E19.4 CC An Phú 961 hậu giang	46m	19	5m	2.2 tỷ	< 3 Tỷ	Đầu chủ Diệp Duy Thắng  0793650789	100 triệu	Đầu chủ	Chuẩn	05/09/2023 21:39	
+106	51.6 Bãi sậy	43m	5	4m	7 tỷ	6-9 Tỷ	Đỗ Ngọc Sáng    0909595037	3.0 %	Đầu chủ	Chuẩn	07/08/2023 21:14	
+107	107 Số 22	104m	4	4m	15.5 tỷ	15-20 Tỷ	Nguyễn Vũ Thanh Liêm    0935089952	3.0 %	Đầu chủ	Chuẩn	04/05/2023 16:35	
+108	124 Số 24	96m	4	4m	14.5 tỷ	9-15 Tỷ	Nguyễn Vũ Thanh Liêm    0935089952	3.0 %	Đầu chủ	Chuẩn	04/05/2023 16:25	
+109	131.22 Kinh Dương Vương	53m	4	4m	8 tỷ	6-9 Tỷ	Nguyễn Vũ Thanh Liêm    0935089952	3.0 %	Đầu chủ	Chuẩn	04/05/2023 16:14	
+110	336.52 Nguyễn Văn Luông	40m	5	4.3m	8.6 tỷ	6-9 Tỷ	Vũ Văn Thứ  0984633334	3.0 %	Đầu chủ	Chuẩn	13/04/2023 10:42	
+111	260.5 Bà Hom	60.1m	4	4m	10 tỷ	9-15 Tỷ	Bùi Văn Minh    0903162785	3.0 %	Đầu chủ	Chuẩn	01/04/2023 16:25	
+112	55 LÔ U Cư Xá Phú Lâm D	75m	4	4.1m	12.9 tỷ	9-15 Tỷ	Trần Thị Kim Duyên  0888097678	3.0 %	Đầu chủ	Chuẩn	16/10/2022 12:40	
+113	928 An Dương Vương	67m	4	4m	9.7 tỷ	9-15 Tỷ	Nguyễn Mậu Tuấn 0931149123	3.0 %	Đầu chủ	Chuẩn	20/08/2022 15:42	
+114	131.14.26 Kinh Dương Vương	70m	3	4m	9.4 tỷ	9-15 Tỷ	Nguyễn Viết Quân    0845116146	3.0 %	Đầu chủ	Chuẩn	10/06/2022 12:05	
