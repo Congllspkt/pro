@@ -1,15 +1,9 @@
 50	
 ## 
-    53.7c ( số mới : 1428.1) huỳnh tấn phát
-50	
-## 
     1056.41.1 Huỳnh Tấn Phát
 50	
 ## 
     1321.7.6 Huỳnh Tấn Phát
-50	
-## 
-    99 Nguyễn Thị Thập
 60	
 ## 
     88.3.18.19 Nguyễn văn Quỳ
@@ -43,6 +37,7 @@
 70	
 ## 
     A2.07.01 Tháp S1 - Chung cư Sunshine Sky City Phú Thuận
+________________________________________________________________
 80	
 ## 
     166.2 Huỳnh Tấn Phát
