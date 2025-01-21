@@ -103,14 +103,7 @@ LH em Công 0963.569.435 xem nhà và làm việc với chủ
 
 
 
-🏘️ Hẻm xe hơi 4 tầng Huỳnh Tấn Phát, Phú Thuận, Q7
-🌲 Diện tích: 5m ❌ 14m (~ 70m2)
-🌲 Xe hơi ngủ trong nhà.
-🌲1 trệt 2 lầu, sân thượng tổng 5 PN 3 WC
-🌲 5 phút qua Phú Mỹ Hưng, Vincom Nam Long
-🌲 Hẻm sạch, thông thoáng, khu an ninh
-🌲 Hơn 6T
-☎️0️⃣9️⃣6️⃣3️⃣ - 5️⃣6️⃣9️⃣ - 4️⃣3️⃣5️⃣
+
 
 
 
