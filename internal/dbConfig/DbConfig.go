@@ -15,7 +15,6 @@ func DbConfig() *pgx.Conn {
 		log.Fatalln("Error connect to DB")
 	}
 
-	// defer db.Close(context.Background())
 
 	log.Println("Connected to DB")
 	return db
